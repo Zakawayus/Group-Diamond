@@ -47,6 +47,9 @@ footer {
 
 /* Content Page Styling */
 
+
+/* Page will display in a grid of two columns. */
+
 .content-section-diseases {
     display: grid;
     grid-template-columns: 1fr 1fr;
