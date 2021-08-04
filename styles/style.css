@@ -1,0 +1,45 @@
+/* CSS Template
+
+Change Colors wherever you want.
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* Layout Styling */
+
+.container {
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 150px auto 70px;
+}
+
+header {
+    background-color: yellowgreen;
+    grid-column: 1 / -1;
+}
+
+main {
+    background-color: aquamarine;
+    grid-column: 1 / -1;
+}
+
+footer {
+    background-color: grey;
+    grid-column: 1 / -1;
+}
+
+
+/*xxx End Of Layout Styling xxx*/
+
+
+/* Header Styling */
