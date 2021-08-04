@@ -80,14 +80,14 @@ footer {
 }
 
 .content-section a button {
-    margin-left: 47.5%;
-    margin-right: 47.5%;
+    margin-left: 46%;
+    margin-right: 46%;
 }
 
 .content-section .btn {
     background-color: rgb(30, 30, 204);
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 8px;
     margin-top: 1%;
     opacity: .9;
     cursor: pointer;
