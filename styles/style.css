@@ -46,3 +46,18 @@ footer {
 
 
 /* Content Page Styling */
+
+.content-section-diseases {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.content-section-wellness {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.content-section-hacks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
