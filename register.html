@@ -28,7 +28,270 @@
             </div>
         </header>
         <main>
-            MAIN
+            <form>
+                <div class="login">
+                    <h2>Life Awareness Center Registration Form</h2>
+                    <p>Please enter your information correctly</p>
+                    <hr>
+                    <div class="row">
+                        <div class="col"><h3>Personal Details</h3></div><br>
+                        <div class="col-25">
+                            <label for="name">Full Name</label>
+                        </div>
+                        <div class="col-50">
+                            <select >
+                                <option>Title</option>
+                                <option>Mr.</option>
+                                <option>Mrs.</option>
+                                <option>Ms.</option>
+                                <option>Miss</option>
+                                <option>Mx.</option>
+                            </select>
+                            <input id="lastname" type="text" placeholder="Lastname" 
+                            name="lastname" required>
+                            <input id="firstname" type="text" placeholder="Firstname" 
+                            name="firstname" required>
+                            <input id="othername" type="text" placeholder="Othername" 
+                            name="othername"  required>
+                        </div>
+                     <div class="col-25">
+                        <label for="Birthdate">Birthdate</label>
+                        <input type="date" required>
+                        <label for="Gender">Gender</label>
+                        <select >
+                            <option>Select</option>
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Transgender</option>
+                            <option>Genderqueer</option>
+                            <option>Intersex</option>
+                            <option>Prefer not to say</option>
+                        </select>
+                        
+                    </div>
+                    <div class="col-25">
+                        <label for="Marital-status">Marital Status</label>
+                        <select >
+                            <option>Select</option>
+                            <option>Married</option>
+                            <option>Single</option>
+                            <option>Divorced</option>
+                            <option>Widowed</option>
+                            <option>Prefer not to say</option>
+                        </select>
+                        <label for="religion">Religion</label>
+                        <select >
+                            <option>Select</option>
+                            <option>Christianity</option>
+                            <option>Islamic</option>
+                            <option>Traditional</option>
+                            <option>Nonreligious</option>
+                            <option>Spiritism</option>
+                            <option>Hinduism</option>
+                            <option>Buddhism</option>
+                            <option>Primal-Indegenous</option>
+                            <option>Sikhism</option>
+                            <option>Juche</option>
+                            <option>Judaism</option>
+                            <option>Bahai</option>
+                            <option>Shinto</option>
+                            <option>Cao Dai</option>
+                            <option>Zoroastrianism</option>
+                            <option>Tenrikyo</option>
+                            <option>Paganism</option>
+                            <option>Unitarian-Universalism</option>
+                            <option>Others</option>
+                        </select>
+                        <input value="If others, specify" type="text">
+                    </div>
+                    <div class="col-25">
+                        <label for="nationality">Nationality</label>
+                        <input id="nationality" type="text" name="nationality" required>
+                        <label for="state">State or Region</label>
+                        <input type="text" required>
+                        <label for="city">City / Town / Village</label>
+                        <input id="city" type="text" name="city" required>
+                    </div>
+                    <div class="col-25">
+                        <label for="address">Residence</label>
+                        <input id="address" type="text" name="address" required>
+                        <label for="permanent-address">Permanent Home Address</label>
+                        <input id="permanent-address" type="text" name="permanent-address" required>
+                    </div>
+                    <div class="col-25">
+                        <label for="Occupation">Occupation</label>
+                        <input id="Occupation" type="text" name="Occupation" required>
+                        <label for="company">Company / Institution</label>
+                        <input id="company" type="text" name="company" required>
+                    </div>
+                    <div class="col-25">
+                        <label for="insurance">Insurance Company</label>
+                        <input id="insurance" type="text" name="insurance" required>
+                        <label for="card">Card Number</label>
+                        <input type="text" required>
+                        <label for="card-exp">Card Expiry Date</label>
+                        <input id="card-exp" type="date" name="card-exp" required>
+                    </div>
+                    <div class="col-60"><h4>How did you know about Life Awareness Center?</h4></div>
+                    <div class="col-63">
+                        <label>
+                        <input type="checkbox" > Referral</label>
+                        <label>
+                            <input type="checkbox" > Direct Mail</label>
+                        <label>
+                            <input type="checkbox" > Advertisement</label>
+                        <label>
+                            <input type="checkbox" > Search Engine</label>
+                        <label>
+                            <input type="checkbox" > Social Media</label>
+                        <label>
+                            <input type="checkbox" > Promotional Campaign</label>
+                        <label>
+                            <input type="checkbox" > Others</label>
+                    </div><br>
+                    <div class="col-60"><label for="email">Email</label></div>
+                        <div class="col-65"><input type="email" placeholder="example@example.com"
+                     name="email" id="email" required></div>
+                     <div class="col-60"><label for="phone">Phone Number</label></div>
+                        <div class="col-65"><input type="tel" placeholder="+234*** *** ****" required></div>
+                     <div class="col-60"><label for="password">Password</label></div>
+                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%"
+                     name="psw" id="psw" required></div>
+                     <div class="col-60"><label for="confirm-password">Confirm Password</label></div>
+                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%"
+                     name="confirm-psw" id="confirm-psw" required></div><hr>
+                            <div class="col"><h3>Emergency Information</h3></div><br>
+                            <div class="col-25">
+                                <label for="name">Contact Name</label>
+                            </div>
+                            <div class="col-50">
+                                <select >
+                                    <option>Title</option>
+                                    <option>Mr.</option>
+                                    <option>Mrs.</option>
+                                    <option>Ms.</option>
+                                    <option>Miss</option>
+                                    <option>Mx.</option>
+                                </select>
+                                <input id="lastname" type="text" placeholder="Lastname" 
+                                name="lastname" required>
+                                <input id="firstname" type="text" placeholder="Firstname" 
+                                name="firstname" required>
+                                <input id="othername" type="text" placeholder="Othername" 
+                                name="othername"  required>
+                            </div>
+                            <div class="col-25"><label for="relationship">Relationship / Contact Information</label></div>
+                        <div class="col-50"><input type="text" required></div>
+                        <div class="col-25">
+                            <label for="address">Residence</label>
+                            <input id="address" type="text" name="address" required>
+                            <label for="permanent-address">Permanent Home Address</label>
+                            <input id="permanent-address" type="text" name="permanent-address" required>
+                        </div>
+                        <div class="col-25">
+                            <label for="Occupation">Occupation</label>
+                            <input id="Occupation" type="text" name="Occupation" required>
+                            <label for="company">Company / Institution</label>
+                            <input id="company" type="text" name="company" required>
+                        </div><hr>
+                        <div class="col"><h3>Medical Details</h3></div><br>
+                        <div class="col-25"><label for="allergies">Do you Suffer from Allergies?</label>
+                        <div class="col-50"><input type="text" placeholder="Please Specify" required></div>
+                        <div class="col-25"><label for="weight">Weight (pounds)</label>
+                            <div class="col-50"><input type="text"  required></div>
+                            <div class="col-25"><label for="height">Height (inches)</label>
+                                <div class="col-50"><input type="text"  required></div>
+                     <button type="submit" class="reg-btn">Register</button> 
+                        
+
+                     <div class="signin">
+                     <p>Have an account? 
+                        <a href="./log in.html">Sign in</a>
+                        </p></div>
+                    </div>
+
+                </div>
+            </form>
+            <div class="faq-wrap">
+        <div class="faq"><h5>Frequently Asked Questions</h5></div>
+        <div class="ques">
+            <p>Is the information provided confidential?</p>
+        </div>
+        <div class="ans">
+            <p>Yes. We apply strict standard for privacy and confidentiality</p>
+        </div>
+        <div class="ques">
+            <p>Is there a time limit for completing my registration?</p>
+        </div>
+        <div class="ans">
+            <p>Yes. The Life Awareness Center (LAC) process is time sensitive, 
+                so you will want to act fast! The form is eazy and simple to fill. 
+                For clarification, contact our Support Center in <a href="./about.html">About Page</a> </p>
+        </div>
+        <div class="ques">
+            <p>Upon completion of registration, am I eligible for insurance coverage?</p>
+        </div>
+        <div class="ans">
+            <p>For now, Life Awareness Center (LAC) is yet to cater for life insurance
+                coverage. Our subscriber would be updated as soon as it is available.
+            </p>
+        </div>
+        <div class="ques">
+            <p>What happen after my Registration?</p>
+        </div>
+        <div class="ans">
+            <p>Life Awareness Center (LAC) will review the form and generate response within ten working days.
+                After receiving the information, the response will either notify you of the final
+                determination regarding your subscription or request additional information.
+            </p>
+        </div>
+        <div class="ques">
+            <p>Can I modify the information on my Registration Form after submission?</p>
+        </div>
+        <div class="ans">
+            <p>If there is an update or information you would want to change or add,
+                you can do that on the <a href="./personal data.html">REQUEST INFO</a> below
+            </p>
+        </div>
+        <div class="ques">
+            <p>How many times can I register?</p>
+        </div>
+        <div class="ans">
+            <p>Just once is enough</p>
+        </div>
+        <div class="ques">
+            <p>What are the working duration of LAC Support Center?</p>
+        </div>
+        <div class="ans">
+            <p>LAC Support Center will be available from 8am-5pm (WAT) on week days </p>
+        </div>
+    </div><hr>
+    
+        <div class="slider">        
+            <div class="image-wrap">
+            <img src="./images/images (21).jpeg" class="slide"
+            width="400px" height="380px" alt="image" id="slider-1">
+            <img src="./images/images (22).jpeg" class="slide"
+            width="400px" height="380px" alt="image"id="slider-2">
+            <img src="./images/images (23).jpeg" class="slide"
+            width="400px" height="380px" alt="image" id="slider-3">
+            <img src="./images/images (24).jpeg" class="slide"
+            width="400px" height="380px" alt="image" id="slider-4">
+         </div>
+         <div class="dash">
+             <a href="#slider-1"></a>
+             <a href="#slider-2"></a>
+             <a href="#slider-3"></a>
+             <a href="#slider-4"></a>
+         </div>
+        </div><br>
+
+    <div class="pd">
+        <a href="./personal data.html">REQUEST INFO</a>
+    </div><br>
+    <div class="Donate">
+        <a href="./Donation.html">Make Donation</a>
+    </div>
         </main>
         <footer>
             FOOTER
