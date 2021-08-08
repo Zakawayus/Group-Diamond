@@ -20,7 +20,7 @@ body {
     height: 100%;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 1autox auto 70px;
+    grid-template-rows: auto auto 70px;
 }
 
 header {
@@ -131,3 +131,271 @@ article>.figure {
     min-width: 100%;
     height: 360px;
 } */
+
+/* login styling starts here*/
+
+.login{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    color:rgb(42, 112, 139);
+    font-family: Arial;
+}
+input[type=text], input[type=password]{
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+hr{
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+.btn{
+    background-color: #04aa6d;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    opacity: 0.9;
+}
+.btn:hover{
+    opacity: 1;
+}
+a{
+    color: dodgerblue;
+}
+.reg{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 25px;
+}
+
+/* login styling ends here*/
+
+/* registration styling starts here*/
+h2{
+    color:rgb(42, 112, 139);
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+}
+p{
+    text-align: center;
+}
+.row{
+    padding: 0 2rem;
+}
+input[type=text], input[type=password], input[type=date],
+ input[type=email], input[type=number], input[type=tel], select{
+    width: 20%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    background: #f1f1f1;
+}
+input[type=text]:focus, input[type=password]:focus, input[type=date]:focus,
+ input[type=date]:focus, input[type=number]:focus, input[type=tel]:focus, select:focus{
+    background-color: #ddd;
+    outline: none;
+}
+hr{
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+.reg-btn{
+    background-color: rgb(173, 173, 31);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    opacity: 0.9;
+}
+.reg-btn:hover{
+    opacity: 1;
+}
+a{
+    color: dodgerblue;
+}
+.reg{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 25px;
+}
+.col{
+    background-color: rgb(134, 51, 51);
+    color: white;
+    padding: 2px 10px;
+}
+.col-60, .col-65{
+    text-align: center;
+    
+}
+.col-65 input[type=password], input[type=email], input[type=tel]{
+    width: 40%;
+}
+.faq-wrap{
+    background-color: silver;
+}
+.faq{
+    background-color: rgb(42, 112, 139);
+    color: white;
+    text-align: center;
+}
+h5{
+    font-size: 30px;
+}
+.ques{
+    background-color: silver;
+    color: rgb(197, 41, 13);
+    padding: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.ans{
+    background-color: dimgray;
+    color: white;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.pd, .Donate{
+    background-color: dimgray;
+    padding: 5px;
+    text-align: center;
+}
+.pd a, .Donate a{
+    text-decoration: none;
+    padding: 5px 5px;
+    color: white;
+    font-size: 20px;
+}
+
+/*slide style starts here*/
+
+.slider{
+    width: 400px; height: 400px;
+    margin: 0px auto;
+    overflow: hidden;
+    text-align: center;
+}
+.image-wrap{
+    width: 1600px; height: 400px;
+    clear: both;
+    position: relative;
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+    transition: left 2s;
+}
+.slide{
+    position: relative;
+    float: left;
+    margin: 0px; padding: 0px;
+}
+#slide-1:target ~ .life-hack{
+    left: 0px;
+}
+#slide-2:target ~ .life-hack{
+    left: calc(-400px * 1);
+}
+#slide-3:target ~ .life-hack{
+    left: calc(-400px * 2);
+}
+#slide-4:target ~ .life-hack{
+    left: calc(-400px * 3);
+}
+.dash{
+    position: absolute;
+    top: 638vh;
+}
+.dash a{
+    display: inline-block;
+    width: 30px; height: 10px; margin: 5px 8px;
+    border-radius: 25px;
+    background-color: rgb(30, 30, 204);
+}
+
+/*slide style starts here*/
+
+/* registration styling ends here*/
+
+/*donation styling starts here*/
+
+/*heart style*/
+.hrt{
+    background-color: #660000;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    margin: 0 10px;
+    top: 3rem;
+    left: 3rem;
+    transform: rotate(-45deg);
+    animation: pulse 1.2s infinite;
+}
+.hrt:before,
+.hrt:after{
+    content: "";
+    background-color: #660000;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+.hrt:before{
+    top: -20px;
+    left: 0;
+}
+.hrt:after{
+    left: 20px;
+    top: 0;
+}
+
+@keyframes pulse{
+    0% {
+        transform: rotate(-45deg) scale(1);
+    }
+    50% {
+        transform: rotate(-45deg) scale(1.5);  
+    }
+    100% {
+        transform: rotate(-45deg) scale(1);
+    }
+}
+.hrt-text h3{
+    padding-left: 8rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+.py, .py-1{
+    padding: 1rem 1rem;
+}
+.py-btn{
+    padding: 10px 30px;
+    border: 10px;
+}
+.py-btn a{
+text-decoration: none;
+font-weight: bolder;
+font-size: 20px;
+}
+/*donation styling ends here*/
