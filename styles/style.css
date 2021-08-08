@@ -20,7 +20,7 @@ body {
     height: 100%;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 1autox auto 70px;
+    grid-template-rows: auto auto 70px;
 }
 
 header {
