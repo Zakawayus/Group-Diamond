@@ -5,12 +5,14 @@ Change Colors wherever you want.
 
 * {
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body {
     height: 100vh;
     margin: 0px;
     padding: 0px;
+    background-image: url(./image.jpg);
 }
 
 
