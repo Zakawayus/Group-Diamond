@@ -7,6 +7,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/style.css">
     <title>LAC</title>
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          margin: 0;
+        }
+        
+        html {
+          box-sizing: border-box;
+        }
+        
+        *, *:before, *:after {
+          box-sizing: inherit;
+        }
+        
+        .column {
+          float: left;
+          width: 33.3%;
+          margin-bottom: 16px;
+          padding: 0 8px;
+        }
+        
+        .card {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          margin: 8px;
+        }
+        
+        .about-section {
+          padding: 50px;
+          text-align: center;
+          background-color: #474e5d;
+          color: white;
+        }
+        
+        .container {
+          padding: 0 16px;
+        }
+        
+        .container::after, .row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+        
+        .title {
+          color: grey;
+        }
+        
+        .button {
+          border: none;
+          outline: 0;
+          display: inline-block;
+          padding: 8px;
+          color: white;
+          background-color: #000;
+          text-align: center;
+          cursor: pointer;
+          width: 100%;
+        }
+        
+        .button:hover {
+          background-color: #555;
+        }
+        
+        @media screen and (max-width: 650px) {
+          .column {
+            width: 100%;
+            display: block;
+          }
+        }
+        </style>
 </head>
 
 <body>
@@ -28,7 +98,84 @@
             </div>
         </header>
         <main>
-            MAIN
+            <div class="about-section">
+                <h1>About Us</h1>
+                <p>At Life Awareness Center (LAC) we are focused on eradicating the rising level of ignorance and negligence of health related issues in the society.
+                    The essence of LAC is to keep the public informed and updated on health issues and also educated them on the importance of healthy living. 
+                </p>
+                <p>Our mission states that AWARENESS IS LIFE and so we are well equip with a team of health and safety professionals, research and tech savvy experts and managers
+                    who provide general information and daily tips to help our viewer. We are also in collaboration with top health agencies who also provide financial assistance 
+                    and content verification. We provide nothing but the best at LAC.
+                </p>
+              </div>
+              
+              <h2 style="text-align:center">Our Team</h2>
+              <div class="row">
+                <div class="column">
+                  <div class="card">
+                    <img src="images/NORA.jpeg" alt="Nora" style="width:100%">
+                    <div class="container">
+                      <h2>Erhovwo Ekiugbo (BNSC, RN)</h2>
+                      <p class="title">CEO & Founder</p>
+                      <p>I am a Registered Graduate Nurse, Graphics Designer, Web Developer, knowledge enthusiast,
+                           Founder@ eCUBe eXploRer and a zealous team player.</p>
+                      <p>erhovwoekius@gmail.com</p>
+                      <p><button class="button">Contact</button></p>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="column">
+                  <div class="card">
+                    <img src="images/logo.jpeg" alt="Sam" style="width:100%">
+                    <div class="container">
+                      <h2>Roundhead Sam</h2>
+                      <p class="title">brains</p>
+                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                      <p>mike@example.com</p>
+                      <p><button class="button">Contact</button></p>
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="column">
+                  <div class="card">
+                    <img src="images/BLESSING.jpeg" alt="Blessing" style="width:100%">
+                    <div class="container">
+                      <h2>Adebayo Blessing Anuoluwa </h2>
+                      <p class="title">Software Developer</p>
+                      <p>I am a Software Developer, a personal development advocate, generalist and tech savvy.</p>
+                      <p>adebayoblessing2005@gmail.com </p>
+                      <p><button class="button">Contact</button></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="column">
+                    <div class="card">
+                      <img src="images/BRIGHT.jpeg" alt="Bright" style="width:100%">
+                      <div class="container">
+                        <h2>Israel Bright</h2>
+                        <p class="title">Project Manager</p>
+                        <p>I am a Project manager, business network analyst,entrepreneur and a mental health advocate.
+                            Aimed at improving the general mental well being of individuals in the society. </p>
+                        <p>israelbright101@gmail.com</p>
+                        <p><button class="button">Contact</button></p>
+                      </div>
+                    </div>
+                  </div>
+                <div class="column">
+                    <div class="card">
+                      <img src="/w3images/team3.jpg" alt="Alex" style="width:100%">
+                      <div class="container">
+                        <h2>Mr Alex</h2>
+                        <p class="title">Designer</p>
+                        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                        <p>alex@gmail.com</p>
+                        <p><button class="button">Contact</button></p>
+                      </div>
+                    </div>
+                  </div>
+              </div>
         </main>
         <footer>
             FOOTER
