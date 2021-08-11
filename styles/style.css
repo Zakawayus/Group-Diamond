@@ -579,3 +579,69 @@ h5 {
 
 
 /*donation styling ends here*/
+ /* footer section */
+        
+ footer {
+    background: white;
+    padding: 50px 20px;
+}
+
+footer .footer-section {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+footer .ftr h3 {
+    font-size: 1.4em;
+    margin-bottom: 1.2em;
+    color: black;
+}
+
+footer .content {
+    list-style: none;
+}
+
+footer .content a {
+    text-decoration: none;
+    opacity: .6;
+    line-height: 30px;
+    transition: .3s ease opacity;
+}
+
+footer .content a:hover {
+    opacity: 1;
+}
+
+footer .ftr {
+    flex-basis: 18%;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+input {
+    border-radius: 5% solid rgb(18, 230, 18);
+    outline: none;
+    padding: 10px;
+    margin: 5px 0;
+    background: white;
+}
+
+.btn input {
+    background: rgb(28, 231, 28);
+    color: grey;
+    transition: 3s ease background;
+}
+
+.btn input:hover {
+    background: #000;
+}
+/* footer section ends */
