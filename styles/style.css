@@ -236,6 +236,14 @@ article>.figure {
     height: 360px;
 } */
 
+.recent {
+    display: flex;
+}
+
+.recent>* {
+    width: 100%;
+}
+
 
 /* login styling starts here*/
 
@@ -579,9 +587,11 @@ h5 {
 
 
 /*donation styling ends here*/
- /* footer section */
-        
- footer {
+
+
+/* footer section */
+
+footer {
     background: white;
     padding: 50px 20px;
 }
@@ -644,4 +654,6 @@ input {
 .btn input:hover {
     background: #000;
 }
+
+
 /* footer section ends */
