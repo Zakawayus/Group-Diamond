@@ -590,13 +590,12 @@ h5 {
 
 
 /* footer section */
-
-footer {
+footer{
     background: white;
     padding: 50px 20px;
-}
 
-footer .footer-section {
+}
+footer .footer-section{
     width: 100%;
     max-width: 1100px;
     margin: 0 auto;
@@ -605,55 +604,48 @@ footer .footer-section {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
-footer .ftr h3 {
-    font-size: 1.4em;
-    margin-bottom: 1.2em;
-    color: black;
+footer .alexftr h3{
+font-size: 1.4em;
+margin-bottom: 1.2em;
+color: black; 
 }
-
-footer .content {
-    list-style: none;
+footer .alexcontent{
+list-style: none;
+} 
+footer .alexcontent a{
+text-decoration:none;
+opacity: .6;
+line-height: 30px;
+transition: .3s ease opacity;
 }
-
-footer .content a {
-    text-decoration: none;
-    opacity: .6;
-    line-height: 30px;
-    transition: .3s ease opacity;
+footer .alexcontent a:hover{
+opacity: 1;   
 }
-
-footer .content a:hover {
-    opacity: 1;
+footer .alexftr{
+flex-basis: 18%;
 }
-
-footer .ftr {
-    flex-basis: 18%;
+form.alexform{
+display: flex;
+align-items: center;
+width: 100%;
 }
+form .alexinput{
+border-radius: 5% solid rgb(18, 230, 18);
+outline:none;
+padding: 10px;
+margin: 5px 0;
+background:white;
+width: 100%;
 
-form {
-    display: flex;
-    align-items: center;
-    width: 100%;
 }
+.alexmidbtn input{
+background: rgb(28, 231, 28);
+color: grey;
+transition: 3s ease background;
 
-input {
-    border-radius: 5% solid rgb(18, 230, 18);
-    outline: none;
-    padding: 10px;
-    margin: 5px 0;
-    background: white;
+
 }
-
-.btn input {
-    background: rgb(28, 231, 28);
-    color: grey;
-    transition: 3s ease background;
+.alexmidbtn input:hover{
+background: #000;
 }
-
-.btn input:hover {
-    background: #000;
-}
-
-
 /* footer section ends */
