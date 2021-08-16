@@ -13,19 +13,47 @@
     <div class="container">
         <header>
             <div class="logo">
-                <!-- <img src="./images/logo.jpeg" alt="Logo"> -->
-                <h1>L.A.C</h1>
+                <img src="images/logo.png">
+
             </div>
-            <div class="nav">
-                <nav>
-                    <ul>
-                        <li><a href="./index.html">Home</a></li>
-                        <li><a href="./about.html">About</a></li>
-                        <li><a href="./articles.html">Articles</a></li>
-                        <li><a href="./register.html">Join Us</a></li>
-                    </ul>
-                </nav>
-            </div>
+
+            <input type="checkbox" id="menu-bar">
+            <label for="menu-bar">Menu</label>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="./index.html" class="active">Home</a></li>
+                    <li><a href="./about.html">About +</a>
+                        <ul>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Expert Team</a></li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="./articles.html">Articles +</a>
+                        <ul>
+                            <li><a href="./life hacks.html">LIFE HACKS</a></li>
+                            <li><a href="./diseases.html">DISEASE AWARENESS</a></li>
+                            <li><a href="./physical health.html">HEALTH & WELLNESS</a></li>
+                            <li><a href="./safety.html">SAFETY</a></li>
+                            <li><a href="./first aid.html">FIRST AID</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="./register.html">Register/Login +</a>
+                        <ul>
+                            <li><a href="./register.html">REGISTER</a></li>
+                            <li><a href="./log in.html">LOGIN</a></li>
+                        </ul>
+                    </li>
+
+                    <a href="#about"> <button>Book An Appointment</button></a>
+
+                </ul>
+
+            </nav>
         </header>
         <main>
             <article>
@@ -60,21 +88,72 @@
             </article>
 
             <div class="recent">
-                <div class="covid-19">
-
+                <div class="other-articles">
+                    <a href="./bipolar.html">
+                        <p><img src="#" alt="pic"></p>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum saepe recusandae quis quisquam deserunt quas ipsam quibusdam maiores nesciunt ea quasi laborum, officia, autem repellendus.</p>
+                    </a>
                 </div>
 
-                <div class="lassa-fever">
-
+                <div class="other-articles">
+                    <a href="./ocd.html">
+                        <p><img src="#" alt="pic"></p>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum saepe recusandae quis quisquam deserunt quas ipsam quibusdam maiores nesciunt ea quasi laborum, officia, autem repellendus.</p>
+                    </a>
                 </div>
 
-                <div class="malaria">
-
+                <div class="other-articles">
+                    <a href="./schizophrenia.html">
+                        <p><img src="#" alt="pic"></p>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum saepe recusandae quis quisquam deserunt quas ipsam quibusdam maiores nesciunt ea quasi laborum, officia, autem repellendus.</p>
+                    </a>
                 </div>
             </div>
         </main>
         <footer>
-            FOOTER
+            <div class="footer-section">
+                <div class="ftr">
+                    <h3>Quick Links</h3>
+                    <ul class="content">
+                        <li><a href="#">Life Hacks</a></li>
+                        <li><a href="#">Mental Health</a></li>
+                        <li><a href="#">Physical Health</a></li>
+                        <li><a href="#">infectious diseases</a></li>
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Contact</h3>
+                    <ul class="content">
+                        <li><a href="#">info@lac.org</a></li>
+                        <li><a href="#">070-234-lac</a></li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
+                            <a target="_blank" href="https://facebook.com/?lang=en" class="fa fa-facebook"></a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Policies</h3>
+                    <ul class="content">
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Cookie Policy</a></li>
+                        <li><a href="#">Terms of USe</a></li>
+                        <li><a href="#">Advertisement Policy</a></li>
+
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Join our Newsletter</h3>
+                    <form action="#">
+                        <input type="email" placeholder="Enter Your Email" required>
+                        <div class="btn">
+                            <input type="Submit" value="Subscribe">
+                        </div>
+                    </form>
+                </div>
+
+            </div>
         </footer>
     </div>
 

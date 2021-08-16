@@ -13,40 +13,68 @@
     <div class="container">
         <header>
             <div class="logo">
-                <!-- <img src="./images/logo.jpeg" alt="Logo"> -->
-                <h1>L.A.C</h1>
+                <img src="images/logo.png">
+
             </div>
-            <div class="nav">
-                <nav>
-                    <ul>
-                        <li><a href="./index.html">Home</a></li>
-                        <li><a href="./about.html">About</a></li>
-                        <li><a href="./articles.html">Articles</a></li>
-                        <li><a href="./register.html">Join Us</a></li>
-                    </ul>
-                </nav>
-            </div>
+
+            <input type="checkbox" id="menu-bar">
+            <label for="menu-bar">Menu</label>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="./index.html" class="active">Home</a></li>
+                    <li><a href="./about.html">About +</a>
+                        <ul>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Expert Team</a></li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="./articles.html">Articles +</a>
+                        <ul>
+                            <li><a href="./life hacks.html">LIFE HACKS</a></li>
+                            <li><a href="./diseases.html">DISEASE AWARENESS</a></li>
+                            <li><a href="./physical health.html">HEALTH & WELLNESS</a></li>
+                            <li><a href="./safety.html">SAFETY</a></li>
+                            <li><a href="./first aid.html">FIRST AID</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="./register.html">Register/Login +</a>
+                        <ul>
+                            <li><a href="./register.html">REGISTER</a></li>
+                            <li><a href="./log in.html">LOGIN</a></li>
+                        </ul>
+                    </li>
+
+                    <a href="#about"> <button>Book An Appointment</button></a>
+
+                </ul>
+
+            </nav>
         </header>
         <main>
             <form>
                 <div class="login">
-                    <h2>Login Here</h2>
-                    <p>Please input your correct login details</p>
-                    <hr>
+                    <div class="lg"><p>Please input your correct login details</p></div>
 
-                    <label for="names"> Full Name
-                     <input id="names" type="text" 
-                     placeholder="Enter your Name" name="names" required>
-                     </label><br><hr>
-                    <label for="password">Password
+                    <label for="lgemail"> Email
+                     <input id="lgemail" type="email" 
+                     placeholder="example@example.com" name="names" required>
+                     </label><br>
+                    <hr>
+                    <label for="psw">Password
                      <input type="password" placeholder="@Kis150_wyx3%"
                      name="psw" id="psw" required>
-                    </label><br><hr>
-                     <button type="submit" class="btn">Login</button> 
+                    </label><br>
+                    <hr>
+                    <div class="lgbtn"><button type="submit" class="btn">Login</button></div>
                 </div>
 
                 <div class="reg">
-                    <p>Don't have an account? 
+                    <p>Don't have an account?
                         <a href="./register.html">Register</a>
                     </p>
                 </div>
@@ -54,7 +82,26 @@
 
         </main>
         <footer>
-            FOOTER
+            <div class="footer-section">
+                
+                <div class="ftr">
+                    <h3>Contact</h3>
+                    <ul class="content">
+                        <li><a href="#">info@lac.org</a></li>
+                        <li><a href="#">070-234-lac</a></li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
+                            <a target="_blank" href="https://facebook.com/?lang=en" class="fa fa-facebook"></a>
+              
+                <div class="ftr">
+                    <h3>Join our Newsletter</h3>
+                    <form action="#">
+                        <input type="email" placeholder="Enter Your Email" required>
+                        <div class="btn">
+                            <input type="Submit" value="Subscribe">
+                        </div>
+                    </form>
+               
         </footer>
     </div>
 
