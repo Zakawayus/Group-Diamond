@@ -59,46 +59,39 @@
 
             <form>
                 <div class="login">
-                    <h2>Life Awareness Center Registration Form</h2>
-                    <p>Please enter your information correctly</p>
-                    <hr>
-                    <div class="row">
-                        <div class="col">
-                            <h3>Personal Details</h3>
+                    <div class="dtails">
+                        <div class="pdtails">
+                            <h3 id="pdid">Personal Details</h3>
                         </div><br>
-                        <div class="col-25">
-                            <label for="name">Full Name</label>
+                        <div class="ldtails">
+                            <label>Full Name</label>
                         </div>
-                        <div class="col-50">
+                        <div class="idtails">
                             <select>
                                 <option>Title</option>
                                 <option>Mr.</option>
                                 <option>Mrs.</option>
                                 <option>Ms.</option>
-                                <option>Miss</option>
-                                <option>Mx.</option>
                             </select>
-                            <input id="lastname-1" type="text" placeholder="Lastname" name="lastname-1" required>
-                            <input id="firstname-1" type="text" placeholder="Firstname" name="firstname" required>
-                            <input id="othername-1" type="text" placeholder="Othername" name="othername-1" required>
+                            <input id="lastname-1" type="text" placeholder="Last name" name="lastname-1" required>
+                            <input id="firstname-1" type="text" placeholder="First name" name="firstname" required>
+                            <input id="othername-1" type="text" placeholder="Other name" name="othername-1" required>
                         </div>
-                        <div class="col-25">
-                            <label for="Birthdate">Birthdate</label>
-                            <input type="date" required>
-                            <label for="Gender">Gender</label>
+                        <div class="ldtails">
+                            <label for="theBirthdate">Date of Birth</label>
+                            <input type="date" id="theBirthdate" required>
+                            <label>Gender</label>
                             <select>
                             <option>Select</option>
                             <option>Male</option>
                             <option>Female</option>
                             <option>Transgender</option>
-                            <option>Genderqueer</option>
-                            <option>Intersex</option>
                             <option>Prefer not to say</option>
                         </select>
 
                         </div>
-                        <div class="col-25">
-                            <label for="Marital-status">Marital Status</label>
+                        <div class="ldtails">
+                            <label>Relationship Status</label>
                             <select>
                             <option>Select</option>
                             <option>Married</option>
@@ -107,7 +100,7 @@
                             <option>Widowed</option>
                             <option>Prefer not to say</option>
                         </select>
-                            <label for="religion">Religion</label>
+                            <label>Religion</label>
                             <select>
                             <option>Select</option>
                             <option>Christianity</option>
@@ -117,7 +110,7 @@
                             <option>Spiritism</option>
                             <option>Hinduism</option>
                             <option>Buddhism</option>
-                            <option>Primal-Indegenous</option>
+                            <option>Primal-Indigenous</option>
                             <option>Sikhism</option>
                             <option>Juche</option>
                             <option>Judaism</option>
@@ -130,35 +123,35 @@
                             <option>Unitarian-Universalism</option>
                             <option>Others</option>
                         </select>
-                            <input value="If others, specify" type="text">
+                            <input placeholder="If others, specify" type="text">
                         </div>
-                        <div class="col-25">
-                            <label for="nationality">Nationality</label>
+                        <div class="ldtails">
+                            <label for="nationality-1">Nationality</label>
                             <input id="nationality-1" type="text" name="nationality-1" required>
-                            <label for="state">State or Region</label>
-                            <input type="text" required>
-                            <label for="city">City / Town / Village</label>
+                            <label for="state-1">State or Region</label>
+                            <input type="text" id="state-1" required>
+                            <label for="city-1">City / Town / Village</label>
                             <input id="city-1" type="text" name="city-1" required>
                         </div>
-                        <div class="col-25">
-                            <label for="address">Residence</label>
-                            <input id="address-1" type="text" name="address-1" required>
-                            <label for="permanent-address">Permanent Home Address</label>
+                        <div class="ldtails">
+                            <label for="addre-1">Residence</label>
+                            <input id="addre-1" type="text" name="address-1" required>
+                            <label for="permanent-address-1">Permanent Home Address</label>
                             <input id="permanent-address-1" type="text" name="permanent-address-1" required>
                         </div>
-                        <div class="col-25">
-                            <label for="Occupation">Occupation</label>
+                        <div class="ldtails">
+                            <label for="Occupation-1">Occupation</label>
                             <input id="Occupation-1" type="text" name="Occupation-1" required>
-                            <label for="company">Company / Institution</label>
+                            <label for="company-1">Company / Institution</label>
                             <input id="company-1" type="text" name="company-1" required>
                         </div>
-                        <div class="col-25">
-                            <label for="insurance">Insurance Company</label>
-                            <input id="insurance-1" type="text" name="insurance-1" required>
-                            <label for="card">Card Number</label>
-                            <input type="text" required>
-                            <label for="card-exp">Card Expiry Date</label>
-                            <input id="card-exp-1" type="date" name="card-exp-1" required>
+                        <div class="ldtails">
+                            <label for="insurance-1">Insurance Company</label>
+                            <input id="insurance-1" type="text" name="insurance-1">
+                            <label for="card-1">Card Number</label>
+                            <input type="text" id="card-1" required>
+                            <label for="card-exp-1">Card Expiry Date</label>
+                            <input id="card-exp-1" type="text" placeholder="mm / yyyy" name="card-exp-1" required>
                         </div>
                         <div class="col-60">
                             <h4>How did you know about Life Awareness Center?</h4>
@@ -178,59 +171,57 @@
                             <input type="checkbox" > Promotional Campaign</label>
                             <label>
                             <input type="checkbox" > Others</label>
-                        </div><br>
-                        <div class="col-60"><label for="email">Email</label></div>
-                        <div class="col-65"><input type="email" placeholder="example@example.com" name="email-1" id="email-1" required></div>
-                        <div class="col-60"><label for="phone">Phone Number</label></div>
+                    </div><br>
+                    <div class="col-60"><label>Email</label></div>
+                        <div class="col-65"><input type="email" placeholder="example@example.com"
+                     name="email" id="email-1" required></div>
+                     <div class="col-60"><label>Phone Number</label></div>
                         <div class="col-65"><input type="tel" placeholder="+234*** *** ****" required></div>
-                        <div class="col-60"><label for="password">Password</label></div>
-                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%" name="psw-1" id="psw-1" required></div>
-                        <div class="col-60"><label for="confirm-password">Confirm Password</label></div>
-                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%" name="confirm-psw-1" id="confirm-psw-1" required></div>
-                        <hr>
-                        <div class="col">
-                            <h3>Emergency Information</h3>
-                        </div><br>
-                        <div class="col-25">
-                            <label for="name">Contact Name</label>
-                        </div>
-                        <div class="col-50">
-                            <select>
+                     <div class="col-60"><label>Password</label></div>
+                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%"
+                     name="psw" id="psw-1" required></div>
+                     <div class="col-60"><label>Confirm Password</label></div>
+                        <div class="col-65"><input type="password" placeholder="@Kis150_wyx3%"
+                     name="confirm-psw" id="confirm-psw-1" required></div><hr>
+                            <div class="e-i"><h3>Emergency Information</h3></div><br>
+                            <div class="ldtails">
+                                <label>Contact Name</label>
+                            </div>
+                            <div class="idtails">
+                                <select >
                                     <option>Title</option>
                                     <option>Mr.</option>
                                     <option>Mrs.</option>
                                     <option>Ms.</option>
-                                    <option>Miss</option>
-                                    <option>Mx.</option>
                                 </select>
                             <input id="lastname-2" type="text" placeholder="Lastname" name="lastname-2" required>
                             <input id="firstname-2" type="text" placeholder="Firstname" name="firstname-2" required>
                             <input id="othername-2" type="text" placeholder="Othername" name="othername-2" required>
                         </div>
-                        <div class="col-25"><label for="relationship">Relationship / Contact Information</label></div>
-                        <div class="col-50"><input type="text" required></div>
-                        <div class="col-25">
-                            <label for="address">Residence</label>
-                            <input id="address-2" type="text" name="address-2" required>
-                            <label for="permanent-address">Permanent Home Address</label>
-                            <input id="permanent-address-2" type="text" name="permanent-address-2" required>
+                        <div class="ldtails"><label>Relationship / Contact Information</label></div>
+                        <div class="idtails"><input type="text" id="relationship-1" required></div>
+                        <div class="ldtails">
+                            <label for="addres-2">Residence</label>
+                            <input id="addres-2" type="text" name="address" required>
+                            <label for="permanent-addres-2">Permanent Home Address</label>
+                            <input id="permanent-addres-2" type="text" name="permanent-address" required>
                         </div>
-                        <div class="col-25">
-                            <label for="Occupation">Occupation</label>
-                            <input id="Occupation-2" type="text" name="Occupation" required>
-                            <label for="company">Company / Institution</label>
+                        <div class="ldtails">
+                            <label for="Occupatn-1">Occupation</label>
+                            <input id="Occupatn-1" type="text" name="Occupation" required>
+                            <label for="company-2">Company / Institution</label>
                             <input id="company-2" type="text" name="company" required>
                         </div>
                         <hr>
-                        <div class="col">
+                        <div class="mdtail">
                             <h3>Medical Details</h3>
                         </div><br>
-                        <div class="col-25"><label for="allergies">Do you Suffer from Allergies?</label>
-                            <div class="col-50"><input type="text" placeholder="Please Specify" required></div>
-                            <div class="col-25"><label for="weight">Weight (pounds)</label>
-                                <div class="col-50"><input type="text" required></div>
-                                <div class="col-25"><label for="height">Height (inches)</label>
-                                    <div class="col-50"><input type="text" required></div>
+                        <div class="ldtails"><label>Do you Suffer from Allergies?</label>
+                            <div class="idtails"><input type="text" placeholder="Please Specify" required></div>
+                            <div class="ldtails"><label for="weight">Weight (kg / pounds)</label>
+                                <div class="idtails"><input type="text" required></div>
+                                <div class="ldtails"><label for="height">Height (feet / inches)</label>
+                                    <div class="idtails"><input type="text" required></div>
                                     <button type="submit" class="reg-btn">Submit</button>
                                 </div>
             </form>
@@ -255,7 +246,6 @@
                             <a target="_blank" href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
                             <a target="_blank" href="https://facebook.com/?lang=en" class="fa fa-facebook"></a>
                         </li>
-
                     </ul>
                 </div>
                 <div class="ftr">
@@ -263,8 +253,6 @@
                     <ul class="content">
                         <li><a href="#">Privacy Policy</a></li>
                         <li><a href="#">Cookie Policy</a></li>
-                        <li><a href="#">Terms of USe</a></li>
-                        <li><a href="#">Advertisement Policy</a></li>
 
                     </ul>
                 </div>
