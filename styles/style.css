@@ -586,7 +586,31 @@ h5 {
 }
 
 
-/*slide style starts here*/
+/*slide style ends here*/
+
+/* media query for registration*/
+@media(max-width: 786px){
+    .hd h2 {
+        color: rgb(42, 112, 139);
+        padding-top: 10rem;
+    }
+    .ques p, .ans p{
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    .dash {
+        top: 478vh;
+    }
+    input[type=text],
+input[type=password],
+input[type=date],
+input[type=email],
+input[type=number],
+input[type=tel],
+select{
+    width: 100%;
+}
+}
 
 
 /* registration styling ends here*/
