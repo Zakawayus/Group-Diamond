@@ -6,259 +6,260 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/font-awesome.min.css">
     <title>LAC</title>
     <style>
         body {
-          font-family: Arial, Helvetica, sans-serif;
-          margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
         }
         
         html {
-          box-sizing: border-box;
+            box-sizing: border-box;
         }
         
-        *, *:before, *:after {
-          box-sizing: inherit;
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
         }
         
         .about-row {
-          align-items: flex-end;
-          padding: o;
+            align-items: flex-end;
+            padding: o;
         }
+        
         .about-column {
-          float: left;
-          width: 33.3%;
-          margin-bottom: 16px;
-          padding: 0 8px;
+            float: left;
+            width: 33.3%;
+            margin-bottom: 16px;
+            padding: 0 8px;
         }
         
         .about-card {
-          box-shadow: 0 6px 12px 0 rgba(11, 197, 42, 0.2);
-          margin: 8px;
+            box-shadow: 0 6px 12px 0 rgba(11, 197, 42, 0.2);
+            margin: 8px;
         }
-
+        
         .about-card img {
-          border-radius: 10%;
+            border-radius: 10%;
         }
         
         .about-section {
-          padding: 50px;
-          text-align: center;
-          background-color: #08c97f;
-          color: white;
+            padding: 50px;
+            text-align: center;
+            background-color: #08c97f;
+            color: white;
         }
         
         .about-info {
-          padding: 0 16px;
-          background-color: #08c97f;
+            padding: 0 16px;
+            background-color: #08c97f;
         }
         
-        .about-info::after, .row::after {
-          content: "";
-          clear: both;
-          display: table;
+        .about-info::after,
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
         }
         
         .about-title {
-          color: rgb(201, 15, 15);
+            color: rgb(201, 15, 15);
         }
         
         .about-button {
-          border: none;
-          outline: 0;
-          display: inline-block;
-          padding: 8px;
-          color: white;
-          background-color: #000;
-          text-align: center;
-          cursor: pointer;
-          width: 100%;
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color: #000;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
         }
         
         .about-button:hover {
-          background-color: #555;
+            background-color: #555;
         }
         
         @media screen and (max-width: 650px) {
-          .about-column {
-            width: 100%;
-            display: block;
-          }
+            .about-column {
+                width: 100%;
+                display: block;
+            }
         }
-        </style>
+    </style>
 </head>
 
 <body>
-  <div class="container">
-    <header>
-        <div class="logo">
-            <img src="images/logo.png">
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="images/logo.png">
 
-        </div>
+            </div>
 
-        <input type="checkbox" id="menu-bar">
-        <label for="menu-bar">Menu</label>
+            <input type="checkbox" id="menu-bar">
+            <label for="menu-bar"><i class="fa fa-bars"></i></label>
 
-        <nav class="navbar">
-            <ul>
-                <li><a href="./index.html" class="active">Home</a></li>
-                <li><a href="./about.html">About +</a>
-                    <ul>
-                        <li><a href="./about.html">About Us</a></li>
-                        <li><a href="./about.html">Expert Team</a></li>
-                    </ul>
-                </li>
-                <li><a href="./articles.html">Articles +</a>
-                    <ul>
-                        <li><a href="./life hacks.html">LIFE HACKS</a></li>
-                        <li><a href="./diseases.html">DISEASE AWARENESS</a></li>
-                        <li><a href="./physical health.html">HEALTH & WELLNESS</a></li>
-                        <li><a href="./safety.html">SAFETY</a></li>
-                        <li><a href="./first aid.html">FIRST AID</a></li>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="./index.html" class="active">Home</a></li>
+                    <li><a href="./about.html">About +</a>
+                        <ul>
+                            <li><a href="./about.html">About Us</a></li>
+                            <li><a href="./about.html">Expert Team</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="./articles.html">Articles +</a>
+                        <ul>
+                            <li><a href="./life hacks.html">LIFE HACKS</a></li>
+                            <li><a href="./diseases.html">DISEASE AWARENESS</a></li>
+                            <li><a href="./physical health.html">HEALTH & WELLNESS</a></li>
+                            <li><a href="./safety.html">SAFETY</a></li>
+                            <li><a href="./first aid.html">FIRST AID</a></li>
 
 
-                    </ul>
+                        </ul>
 
-                </li>
+                    </li>
 
-                <li><a href="./register.html">Register/Login +</a>
-                    <ul>
-                        <li><a href="./register.html">REGISTER</a></li>
-                        <li><a href="./log in.html">LOGIN</a></li>
+                    <li><a href="./register.html">Register/Login +</a>
+                        <ul>
+                            <li><a href="./register.html">REGISTER</a></li>
+                            <li><a href="./log in.html">LOGIN</a></li>
 
-                    </ul>
+                        </ul>
 
-                </li>
-                <a href="#about"> <button>Book An Appointment</button></a>
-            </ul>
-        </nav>
-    </header>
+                    </li>
+                    <a href="#about"> <button>Book An Appointment</button></a>
+                </ul>
+            </nav>
+        </header>
         <main>
             <div class="about-section">
                 <h1><strong>About Us</strong></h1>
-                <p>At Life Awareness Center (LAC) we are focused on eradicating the rising level of ignorance and negligence of health related issues in the society.
-                    The essence of LAC is to keep the public informed and updated on health issues and also educated them on the importance of healthy living. 
+                <p>At Life Awareness Center (LAC) we are focused on eradicating the rising level of ignorance and negligence of health related issues in the society. The essence of LAC is to keep the public informed and updated on health issues and also
+                    educated them on the importance of healthy living.
                 </p>
-                <p>Our mission states that AWARENESS IS LIFE and so we are well equip with a team of health and safety professionals, research and tech savvy experts and managers
-                    who provide general information and daily tips to help our viewer. We are also in collaboration with top health agencies who also provide financial assistance 
-                    and content verification. We provide nothing but the best at LAC.
+                <p>Our mission states that AWARENESS IS LIFE and so we are well equip with a team of health and safety professionals, research and tech savvy experts and managers who provide general information and daily tips to help our viewer. We are also
+                    in collaboration with top health agencies who also provide financial assistance and content verification. We provide nothing but the best at LAC.
                 </p>
-              </div>
-              
-              <h2 style="text-align:center"><strong>Our Team</strong></h2>
-              <div class="about-row">
+            </div>
+
+            <h2 style="text-align:center"><strong>Our Team</strong></h2>
+            <div class="about-row">
                 <div class="about-column">
-                  <div class="about-card">
-                    <img src="images/NORA.jpeg" alt="Nora" style="width:100%">
-                    <div class="about-info">
-                      <h2>Erhovwo Ekiugbo (BNSC, RN)</h2>
-                      <p class="about-title">CEO & Founder</p>
-                      <p>I am a Registered Graduate Nurse, Graphics Designer, Web Developer, knowledge enthusiast,
-                           Founder@ eCUBe eXploRer and a zealous team player.</p>
-                      <p>erhovwoekius@gmail.com</p>
-                      <p><button class="about-button">Contact</button></p>
+                    <div class="about-card">
+                        <img src="images/NORA.jpeg" alt="Nora" style="width:100%">
+                        <div class="about-info">
+                            <h2>Erhovwo Ekiugbo (BNSC, RN)</h2>
+                            <p class="about-title">CEO & Founder</p>
+                            <p>I am a Registered Graduate Nurse, Graphics Designer, Web Developer, knowledge enthusiast, Founder@ eCUBe eXploRer and a zealous team player.</p>
+                            <p>erhovwoekius@gmail.com</p>
+                            <p><button class="about-button">Contact</button></p>
+                        </div>
                     </div>
-                  </div>
-                </div>
-              
-                <div class="about-column">
-                  <div class="about-card">
-                    <img src="images/SAM.jpeg" alt="Sam" style="width:100%">
-                    <div class="about-info">
-                      <h2>Samuel Ohiri</h2>
-                      <p class="about-title">Content Creator</p>
-                      <p>I'm a writer, content creator and programmer, fighting for love and equity.
-                        I am determined to change the world.
-                      </p>
-                      <p>therealsammy18x@gmail.com</p>
-                      <p><button class="about-button">Contact</button></p>
-                    </div>
-                  </div>
-                </div>
-              
-                <div class="about-column">
-                  <div class="about-card">
-                    <img src="images/BLESSING.jpeg" alt="Blessing" style="width:100%">
-                    <div class="about-info">
-                      <h2>Adebayo Blessing Anuoluwa </h2>
-                      <p class="about-title">Software Developer</p>
-                      <p>I am a Software Developer, a personal development advocate, generalist and tech savvy.</p>
-                      <p>adebayoblessing2005@gmail.com </p>
-                      <p><button class="about-button">Contact</button></p>
-                    </div>
-                  </div>
                 </div>
 
                 <div class="about-column">
                     <div class="about-card">
-                      <img src="images/BRIGHT.jpeg" alt="Bright" style="width:100%">
-                      <div class="about-info">
-                        <h2>Israel Bright</h2>
-                        <p class="about-title">Project Manager</p>
-                        <p>I am a Project manager, business network analyst,entrepreneur and a mental health advocate.
-                            Aimed at improving the general mental well being of individuals in the society. </p>
-                        <p>israelbright101@gmail.com</p>
-                        <p><button class="about-button">Contact</button></p>
-                      </div>
+                        <img src="images/SAM.jpeg" alt="Sam" style="width:100%">
+                        <div class="about-info">
+                            <h2>Samuel Ohiri</h2>
+                            <p class="about-title">Content Creator</p>
+                            <p>I'm a writer, content creator and programmer, fighting for love and equity. I am determined to change the world.
+                            </p>
+                            <p>therealsammy18x@gmail.com</p>
+                            <p><button class="about-button">Contact</button></p>
+                        </div>
                     </div>
-                  </div>
+                </div>
 
                 <div class="about-column">
                     <div class="about-card">
-                      <img src="images/MR ALEX.jpeg" alt="Alex" style="width:100%">
-                      <div class="about-info">
-                        <h2>Mr Offor Ikechukwu</h2>
-                        <p class="about-title">Safety Professional</p>
-                        <p>I am a certified Safety Officer, environmental safety instructor and an emergency correspondent.</p>
-                        <p>alex4life2006@yahoo.com</p>
-                        <p><button class="about-button">Contact</button></p>
-                      </div>
+                        <img src="images/BLESSING.jpeg" alt="Blessing" style="width:100%">
+                        <div class="about-info">
+                            <h2>Adebayo Blessing Anuoluwa </h2>
+                            <p class="about-title">Software Developer</p>
+                            <p>I am a Software Developer, a personal development advocate, generalist and tech savvy.</p>
+                            <p>adebayoblessing2005@gmail.com </p>
+                            <p><button class="about-button">Contact</button></p>
+                        </div>
                     </div>
-                  </div>
-              </div>
+                </div>
+
+                <div class="about-column">
+                    <div class="about-card">
+                        <img src="images/BRIGHT.jpeg" alt="Bright" style="width:100%">
+                        <div class="about-info">
+                            <h2>Israel Bright</h2>
+                            <p class="about-title">Project Manager</p>
+                            <p>I am a Project manager, business network analyst,entrepreneur and a mental health advocate. Aimed at improving the general mental well being of individuals in the society. </p>
+                            <p>israelbright101@gmail.com</p>
+                            <p><button class="about-button">Contact</button></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="about-column">
+                    <div class="about-card">
+                        <img src="images/MR ALEX.jpeg" alt="Alex" style="width:100%">
+                        <div class="about-info">
+                            <h2>Mr Offor Ikechukwu</h2>
+                            <p class="about-title">Safety Professional</p>
+                            <p>I am a certified Safety Officer, environmental safety instructor and an emergency correspondent.</p>
+                            <p>alex4life2006@yahoo.com</p>
+                            <p><button class="about-button">Contact</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </main>
         <footer>
-          <div class="footer-section">
-            <div class="ftr">
-                <h3>Quick Links</h3>
-                <ul class="content">
-                    <li><a href="#">Life Hacks</a></li>
-                    <li><a href="#">Mental Health</a></li>
-                    <li><a href="#">Physical Health</a></li>
-                    <li><a href="#">infectious diseases</a></li>
-                </ul>
-            </div>
-            <div class="ftr">
-                <h3>Contact</h3>
-                <ul class="content">
-                    <li><a href="#">info@lac.org</a></li>
-                    <li><a href="#">070-234-lac</a></li>
-                    <li>
-                        <a target="_blank" href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
-                        <a target="_blank" href="https://facebook.com/?lang=en" class="fa fa-facebook"></a>
-                    </li>
+            <div class="footer-section">
+                <div class="ftr">
+                    <h3>Quick Links</h3>
+                    <ul class="content">
+                        <li><a href="#">Life Hacks</a></li>
+                        <li><a href="#">Mental Health</a></li>
+                        <li><a href="#">Physical Health</a></li>
+                        <li><a href="#">infectious diseases</a></li>
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Contact</h3>
+                    <ul class="content">
+                        <li><a href="#">info@lac.org</a></li>
+                        <li><a href="#">070-234-lac</a></li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
+                            <a target="_blank" href="https://facebook.com/?lang=en" class="fa fa-facebook"></a>
+                        </li>
 
-                </ul>
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Policies</h3>
+                    <ul class="content">
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Cookie Policy</a></li>
+                        <li><a href="#">Terms of USe</a></li>
+                        <li><a href="#">Advertisement Policy</a></li>
+                    </ul>
+                </div>
+                <div class="ftr">
+                    <h3>Join our Newsletter</h3>
+                    <form action="#">
+                        <input type="email" placeholder="Enter Your Email" required>
+                        <div class="btn">
+                            <input type="Submit" value="Subscribe">
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div class="ftr">
-                <h3>Policies</h3>
-                <ul class="content">
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Cookie Policy</a></li>
-                    <li><a href="#">Terms of USe</a></li>
-                    <li><a href="#">Advertisement Policy</a></li>
-                </ul>
-            </div>
-            <div class="ftr">
-                <h3>Join our Newsletter</h3>
-                <form action="#">
-                    <input type="email" placeholder="Enter Your Email" required>
-                    <div class="btn">
-                        <input type="Submit" value="Subscribe">
-                    </div>
-                </form>
-            </div>
-        </div>
         </footer>
     </div>
 

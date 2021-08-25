@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 /* CSS Template
 
 Change Colors wherever you want.
@@ -211,6 +213,9 @@ article {
     display: grid;
     grid-template-columns: 80px 1fr 80px;
     grid-gap: 10px;
+    background: #ddd;
+    color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 article p {
@@ -459,7 +464,6 @@ h5 {
 
 /*slide style starts here*/
 
-
 .slider {
     width: 500px;
     height: 500px;
@@ -475,90 +479,110 @@ h5 {
     transition: 0.8s;
 }
 
-.slider .image-wrap > *{
+.slider .image-wrap>* {
     display: inline-block;
     vertical-align: top;
-    height: 100%; width: 100%;
+    height: 100%;
+    width: 100%;
     background: none 50% no-repeat;
     background-size: cover;
 }
 
-.slider .prnx{
+.slider .prnx {
     position: absolute;
     z-index: 1;
     top: 50%;
-    width: 100%; height: 0;
+    width: 100%;
+    height: 0;
 }
-    
-.slider .prnx{
+
+.slider .prnx {
     visibility: hidden;
 }
 
-.slider .prnx a{
+.slider .prnx a {
     background: #fff;
     position: absolute;
-    width: 40px; height: 40px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     opacity: 0.7;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-.slider .prnx a:hover{
+
+.slider .prnx a:hover {
     opacity: 1;
 }
-.slider .prnx a+a{
+
+.slider .prnx a+a {
     right: 0px;
 }
-.slider .dash{
+
+.slider .dash {
     position: absolute;
     z-index: 2;
     bottom: 0;
     padding: 10px 0;
     text-align: center;
 }
-.slider .dash > a{
+
+.slider .dash>a {
     display: inline-block;
-    width: 20px; height: 20px;
+    width: 20px;
+    height: 20px;
     line-height: 20px;
     text-align: center;
     border-radius: 25px;
     background: rgba(255, 200, 25, 1);
 }
-.slider .dash > a+a{
+
+.slider .dash>a+a {
     background: rgba(255, 200, 25, 0.5);
 }
-.slider .dash > a:hover{
+
+.slider .dash>a:hover {
     background: rgba(255, 200, 25, 0.9);
 }
-.slider >s:target ~ .dash >* {
+
+.slider>s:target~.dash>* {
     background: rgba(255, 200, 25, 0.5);
-} 
-
-#slide-1:target ~ .dash >*:nth-child(1) {
-    background: rgba(255, 200, 25, 1);
 }
 
-#slide-2:target ~ .dash >*:nth-child(2) {
-    background: rgba(255, 200, 25, 1);
-}
-#slide-3:target ~ .dash >*:nth-child(3) {
-    background: rgba(255, 200, 25, 1);
-}
-#slide-4:target ~ .dash >*:nth-child(4) {
+#slide-1:target~.dash>*:nth-child(1) {
     background: rgba(255, 200, 25, 1);
 }
 
-#slider-1:target ~ .image-wrap{
-    transform: translateX(0%); -webkit-transform: translateX(0%);
+#slide-2:target~.dash>*:nth-child(2) {
+    background: rgba(255, 200, 25, 1);
 }
-#slider-2:target ~ .image-wrap{
-    transform: translateX(-100%); -webkit-transform: translateX(-100%);
+
+#slide-3:target~.dash>*:nth-child(3) {
+    background: rgba(255, 200, 25, 1);
 }
-#slider-3:target ~ .image-wrap{
-    transform: translateX(-200%); -webkit-transform: translateX(-200%);
+
+#slide-4:target~.dash>*:nth-child(4) {
+    background: rgba(255, 200, 25, 1);
 }
-#slider-4:target ~ .image-wrap{
-    transform: translateX(-300%); -webkit-transform: translateX(-300%);
+
+#slider-1:target~.image-wrap {
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+}
+
+#slider-2:target~.image-wrap {
+    transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+}
+
+#slider-3:target~.image-wrap {
+    transform: translateX(-200%);
+    -webkit-transform: translateX(-200%);
+}
+
+#slider-4:target~.image-wrap {
+    transform: translateX(-300%);
+    -webkit-transform: translateX(-300%);
 }
 
 
@@ -713,3 +737,142 @@ form .alexinput {
 
 
 /* footer section ends */
+
+
+/* footer section ends */
+
+
+/*media query section  */
+
+@media(max-width:991px) {
+    header {
+        padding: 20px;
+    }
+    header label {
+        display: initial;
+    }
+    header .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        border-top: 1px solid rgba(0, 0, 0, .1);
+        display: none;
+    }
+    header .navbar ul li {
+        width: 100%;
+    }
+    header .navbar ul li ul {
+        position: relative;
+        width: 100%;
+    }
+    header .navbar ul li ul li {
+        background: #eee;
+    }
+    header .navbar ul li ul ul {
+        width: 100%;
+        left: 0;
+    }
+    #menu-bar:checked~.navbar {
+        display: initial;
+    }
+    .col-2 {
+        flex-basis: 100%;
+        margin-bottom: 30px;
+        margin-top: 40px;
+    }
+    .col-2 .nurse {
+        margin-bottom: 20px;
+    }
+    .col-1 {
+        flex-basis: 100%;
+        top: -50px;
+        position: relative;
+    }
+    .col-1 h2 {
+        font-size: 35px;
+    }
+    .col-1 h3 {
+        font-size: 15px;
+    }
+    footer .alexftr {
+        flex-basis: 80%;
+        margin: 0 auto;
+    }
+    .alexftr form {
+        flex-direction: column;
+    }
+    form .alexinput {
+        width: 90%;
+        margin: 5px auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .alexcontainer-1 {
+        left: 20%;
+        width: 320px;
+    }
+    .col-2 .nurse {
+        width: 250px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 496px) {
+    .alexcontainer-1 {
+        left: 20%;
+        width: 300px;
+    }
+    header label {
+        display: initial;
+    }
+    #menu-bar:checked~.navbar {
+        display: initial;
+    }
+    .row {
+        margin: 0 0;
+        flex-direction: column-reverse;
+    }
+    .col-1 {
+        flex-basis: 40%;
+        position: relative;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .col-2 .nurse {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 364px) {
+    .alexcontainer-1 {
+        left: 10%;
+        width: 300px;
+    }
+    header label {
+        display: initial;
+    }
+    #menu-bar:checked~.navbar {
+        display: initial;
+    }
+    .row {
+        margin: 0 0;
+        flex-direction: column-reverse;
+    }
+    .col-1 {
+        flex-basis: 40%;
+        position: relative;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .col-2 .nurse {
+        width: 100%;
+        margin-top: 40px;
+    }
+}
+
+
+/* media query section ends */
