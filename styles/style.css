@@ -24,7 +24,7 @@ body {
     height: 100%;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: auto auto 70px;
+    grid-template-rows: auto auto auto;
 }
 
 header {
@@ -46,7 +46,7 @@ footer {
 /* Header Styling */
 
 header {
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     right: 0;
@@ -181,13 +181,14 @@ button {
     padding: 4px;
 }
 
-.content-section img {
+
+/* .content-section img {
     max-width: 360px;
-}
+} */
 
 .content-section a button {
-    margin-left: 46%;
-    margin-right: 46%;
+    text-align: center;
+    width: 100%;
 }
 
 .content-section .btn {
@@ -201,6 +202,17 @@ button {
 
 .content-section .btn:hover {
     opacity: 1;
+}
+
+.free-button {
+    display: grid;
+    grid-column: 1 / -1;
+    width: 100%;
+}
+
+.content-image {
+    height: 100px;
+    width: 200px;
 }
 
 
@@ -588,13 +600,16 @@ h5 {
 
 /*slide style ends here*/
 
+
 /* media query for registration*/
-@media(max-width: 786px){
+
+@media(max-width: 786px) {
     .hd h2 {
         color: rgb(42, 112, 139);
         padding-top: 10rem;
     }
-    .ques p, .ans p{
+    .ques p,
+    .ans p {
         margin-bottom: 10px;
         font-size: 15px;
     }
@@ -602,14 +617,14 @@ h5 {
         top: 478vh;
     }
     input[type=text],
-input[type=password],
-input[type=date],
-input[type=email],
-input[type=number],
-input[type=tel],
-select{
-    width: 100%;
-}
+    input[type=password],
+    input[type=date],
+    input[type=email],
+    input[type=number],
+    input[type=tel],
+    select {
+        width: 100%;
+    }
 }
 
 
@@ -697,6 +712,7 @@ select{
 footer {
     background: white;
     padding: 50px 20px;
+    height: fit-content;
 }
 
 footer .footer-section {
