@@ -801,9 +801,10 @@ h5 {
     font-size: 20px;
 }
 
-.py-btncls{
+.py-btncls {
     padding: 0 3rem;
 }
+
 
 /*donation styling ends here*/
 
@@ -965,6 +966,11 @@ form .alexinput {
     .recent {
         display: block;
     }
+    article {
+        display: grid;
+        grid-template-columns: 10px 1fr 10px;
+        grid-gap: 5px;
+    }
 }
 
 @media screen and (max-width: 496px) {
@@ -995,6 +1001,11 @@ form .alexinput {
     .recent {
         display: block;
     }
+    article {
+        display: grid;
+        grid-template-columns: 10px 1fr 10px;
+        grid-gap: 5px;
+    }
 }
 
 @media screen and (max-width: 364px) {
@@ -1024,6 +1035,11 @@ form .alexinput {
     }
     .recent {
         display: block;
+    }
+    article {
+        display: grid;
+        grid-template-columns: 10px 1fr 10px;
+        grid-gap: 5px;
     }
 }
 
