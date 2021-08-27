@@ -312,6 +312,10 @@ article h2 {
     text-align: center;
 }
 
+.articles-list a p {
+    color: #000;
+}
+
 article>* {
     grid-column: 2;
     min-width: 0px;

@@ -1,0 +1,1769 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preload" href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/fonts/SourceSansPro-Bold.woff" as="font" type="font/woff2" crossorigin>
+
+  
+    <link rel="stylesheet" href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/dist/main.min.css">
+  
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28770239-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-28770239-1', { 'anonymize_ip': true });
+</script>
+  
+       <script type="application/ld+json">
+// Business name, address, opening hours, logo social profiles
+  
+{
+ "@context" : "http://schema.org",
+ "@type": "LocalBusiness",
+  
+"name" : "Elite Fire Protection Ltd",
+  
+"logo" : "https://www.elitefire.co.uk/wp-content/uploads/2020/08/Logo-White.svg",
+  
+"image" : "https://www.elitefire.co.uk/wp-content/uploads/2020/08/Logo-White.svg",
+  
+"url": "https://www.elitefire.co.uk/",
+  
+"address": {
+ "@type": "PostalAddress",
+ "streetAddress": "86-90 Paul Street",
+ "addressLocality": "London",
+ "addressRegion": "Greater London",
+ "postalCode": "EC2A 4NE"
+ },
+  
+"telephone": "020 3124 1632",
+  
+"openingHours":
+ [
+ "Mo-Fr 09:00-17:00",
+ "Sa-Su Closed"
+ ],
+  
+"email" :"info@elitefire.co.uk",
+  
+"vatID": "731615454",
+  
+"sameAs" :
+ [ "https://twitter.com/elitefireprot",
+ "https://www.facebook.com/EliteFireProtection",
+ "https://g.page/elite-fire/"
+ ],
+  
+"description": "Elite Fire are experienced fire industry professionals &amp; specialise in the supply, installation &amp; maintenance of a huge range of fire safety equipment. Call 020 3124 1632 today.",
+  
+"areaServed": [
+{
+"@type": "City",
+"name": "London",
+"@id": "https://en.wikipedia.org/wiki/London"
+},
+{
+"@type": "City",
+"name": "Surrey",
+"@id": "https://en.wikipedia.org/wiki/Surrey"
+},
+{
+"@type": "City",
+"name": "Greater London",
+"@id": "https://en.wikipedia.org/wiki/Greater_London"
+}
+]
+}
+
+// Branch address
+ 
+{
+"@context" : "http://schema.org",
+"@type": "LocalBusiness",
+"name": "Elite Fire Protection Surrey",
+"branchOf": "Elite Fire Protection Ltd",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "St Ann's House",
+"addressLocality": "Chertsey",
+"addressRegion": "Surrey",
+"postalCode": "KT16 9EH"
+},
+ 
+"image" : "https://www.elitefire.co.uk/wp-content/uploads/2020/08/Logo-White.svg",
+ 
+"telephone": "020 3124 1632",
+ 
+"openingHours":
+[
+ "Mo-Fr 09:00-17:00",
+ "Sa-Su Closed"
+],
+ 
+"areaServed": [
+{
+"@type": "City",
+"name": "Surrey",
+"@id": "https://en.wikipedia.org/wiki/Surrey"
+}
+]
+}
+</script>
+  
+  
+	<!-- This site is optimized with the Yoast SEO plugin v16.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How to Detect and Extinguish a Class F Fire (Cooking Oils &amp; Fats) | Elite Fire</title>
+	<meta name="description" content="Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How to Detect and Extinguish a Class F Fire (Cooking Oils &amp; Fats) | Elite Fire" />
+	<meta property="og:description" content="Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases." />
+	<meta property="og:url" content="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/" />
+	<meta property="og:site_name" content="Elite Fire" />
+	<meta property="article:published_time" content="2013-08-27T13:46:25+00:00" />
+	<meta property="article:modified_time" content="2020-10-30T00:03:54+00:00" />
+	<meta property="og:image" content="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped.jpg" />
+	<meta property="og:image:width" content="1043" />
+	<meta property="og:image:height" content="853" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Elite Fire Team" />
+	<meta name="twitter:label2" content="Estimated reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.elitefire.co.uk/#organization","name":"Elite Fire Protection Ltd","url":"https://www.elitefire.co.uk/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.elitefire.co.uk/#logo","inLanguage":"en-GB","url":"https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav.jpg","contentUrl":"https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav.jpg","width":512,"height":512,"caption":"Elite Fire Protection Ltd"},"image":{"@id":"https://www.elitefire.co.uk/#logo"}},{"@type":"WebSite","@id":"https://www.elitefire.co.uk/#website","url":"https://www.elitefire.co.uk/","name":"Elite Fire","description":"Just another WordPress site","publisher":{"@id":"https://www.elitefire.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.elitefire.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#primaryimage","inLanguage":"en-GB","url":"https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped.jpg","contentUrl":"https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped.jpg","width":1043,"height":853},{"@type":"WebPage","@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#webpage","url":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/","name":"How to Detect and Extinguish a Class F Fire (Cooking Oils & Fats) | Elite Fire","isPartOf":{"@id":"https://www.elitefire.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#primaryimage"},"datePublished":"2013-08-27T13:46:25+00:00","dateModified":"2020-10-30T00:03:54+00:00","description":"Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases.","breadcrumb":{"@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/"]}]},{"@type":"BreadcrumbList","@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.elitefire.co.uk/"},{"@type":"ListItem","position":2,"name":"Help &#038; Advice","item":"https://www.elitefire.co.uk/help-advice/"},{"@type":"ListItem","position":3,"name":"How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)"}]},{"@type":"Article","@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#article","isPartOf":{"@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#webpage"},"author":{"@id":"https://www.elitefire.co.uk/#/schema/person/99fdce9248fdc2acd2a2a59d8ae4f0d8"},"headline":"How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)","datePublished":"2013-08-27T13:46:25+00:00","dateModified":"2020-10-30T00:03:54+00:00","mainEntityOfPage":{"@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#webpage"},"wordCount":564,"commentCount":0,"publisher":{"@id":"https://www.elitefire.co.uk/#organization"},"image":{"@id":"https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#primaryimage"},"thumbnailUrl":"https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped.jpg","articleSection":["Extinguishing Fires"],"inLanguage":"en-GB","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/#respond"]}]},{"@type":"Person","@id":"https://www.elitefire.co.uk/#/schema/person/99fdce9248fdc2acd2a2a59d8ae4f0d8","name":"Elite Fire Team","image":{"@type":"ImageObject","@id":"https://www.elitefire.co.uk/#personlogo","inLanguage":"en-GB","url":"https://secure.gravatar.com/avatar/5127cceaef0848be746f6d295fc5c656?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/5127cceaef0848be746f6d295fc5c656?s=96&d=mm&r=g","caption":"Elite Fire Team"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="icon" href="https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.elitefire.co.uk/wp-content/uploads/2021/01/cropped-fav-270x270.jpg" />
+
+  
+</head>
+
+<body>
+
+  <nav class="mob-nav">
+    <div class="scroll-container">
+
+      <ul>
+        
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3902">
+      <a href="https://www.elitefire.co.uk/" class="">
+        Home
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3672 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/" class="">
+        Fire Alarm Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3673">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-detection-alarm-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Detection
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3674">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-alarm-installations/" class="desktop-menu__link desktop-menu__link--subnav">
+        Installation
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3675">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-alarm-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Maintenance
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3759 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/" class="desktop-menu__link desktop-menu__link--subnav">
+        Monitored Fire Alarms
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3760">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/monitored-fire-alarm-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Monitored Fire Alarm System Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4282">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/wireless-fire-alarms/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wireless Fire Alarms
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4283">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/notifier-fire-alarm-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Notifier Fire Alarm Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4284 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/" class="desktop-menu__link desktop-menu__link--subnav">
+        Aspirating Fire &#038; Smoke Detection Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4285">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/faast-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        FAAST Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4286">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/vesda-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        VESDA Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4287">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/stratos-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Stratos Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4288">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/wagner-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wagner Systems
+      </a>
+          </li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3758">
+      <a href="https://www.elitefire.co.uk/fire-stopping/" class="">
+        Fire Stopping
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3670 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/" class="">
+        Fire Extinguishers
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-custom menu-item-object-custom menu-item-4706 menu-item-has-children">
+      <a href="#" class="desktop-menu__link desktop-menu__link--subnav">
+        Types of Extinguisher
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4296">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/automatic-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Automatic Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4292">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/co2-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        CO2 Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4291">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/foam-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Foam Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4293">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/powder-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Powder Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4295">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/water-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Water Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4294">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/wet-chemical-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet Chemical Extinguishers
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3678">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/service-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Service &#038; Maintenance
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3724">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/fire-extinguisher-hire/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Hire
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3725">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/fire-extinguisher-disposal/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Disposal
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3683 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-doors/" class="">
+        Fire Doors
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3749">
+      <a href="https://www.elitefire.co.uk/fire-doors/internal-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        Internal Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3750">
+      <a href="https://www.elitefire.co.uk/fire-doors/external-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        External Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3751">
+      <a href="https://www.elitefire.co.uk/fire-doors/glazed-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        Glazed Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3752">
+      <a href="https://www.elitefire.co.uk/fire-doors/fire-rated-door-finishes/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Rated Door Finishes
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3723">
+      <a href="https://www.elitefire.co.uk/fire-doors/fire-door-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Door Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3744 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-risk-assessment/" class="">
+        Fire Risk Assessments
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4297">
+      <a href="https://www.elitefire.co.uk/fire-risk-assessment/video-landing-page/" class="desktop-menu__link desktop-menu__link--subnav">
+        Risk Assessment Quiz
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3669 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/" class="">
+        Other Services
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3684">
+      <a href="https://www.elitefire.co.uk/other-fire-services/emergency-lighting/" class="desktop-menu__link desktop-menu__link--subnav">
+        Emergency Lighting
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3681">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-signage/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Safety Signage
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3763">
+      <a href="https://www.elitefire.co.uk/fever-detection-technology/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fever Detection Technology
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3671 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Safety Training
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3676">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/basic-fire-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Basic Fire Training
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3677">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/fire-warden-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Warden Training
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3680">
+      <a href="https://www.elitefire.co.uk/other-fire-services/mechanical-sprinkler-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Mechanical Sprinkler Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3682">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-pat-testing/" class="desktop-menu__link desktop-menu__link--subnav">
+        PAT Testing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3679 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet / Dry Riser Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4299">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-testing/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet/Dry Riser Testing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4298">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet/Dry Riser Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3911 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/" class="">
+        Sectors We Cover
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4073">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/construction/" class="desktop-menu__link desktop-menu__link--subnav">
+        Construction
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4076">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/data-centres/" class="desktop-menu__link desktop-menu__link--subnav">
+        Data Centres
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4074">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/education/" class="desktop-menu__link desktop-menu__link--subnav">
+        Education
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4069">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/health-facilities/" class="desktop-menu__link desktop-menu__link--subnav">
+        Health &#038; Facilities
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4070">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/hospitality/" class="desktop-menu__link desktop-menu__link--subnav">
+        Hospitality
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4762">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/letting-agent-fire-protection/" class="desktop-menu__link desktop-menu__link--subnav">
+        Letting Agent Fire Protection
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4068">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/manufacturing/" class="desktop-menu__link desktop-menu__link--subnav">
+        Manufacturing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4075">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/offices/" class="desktop-menu__link desktop-menu__link--subnav">
+        Offices
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4071">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/retail/" class="desktop-menu__link desktop-menu__link--subnav">
+        Retail
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4072">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/transport/" class="desktop-menu__link desktop-menu__link--subnav">
+        Transport
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3903 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/about-us/" class="">
+        About Us
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3904">
+      <a href="https://www.elitefire.co.uk/our-clients/" class="desktop-menu__link desktop-menu__link--subnav">
+        Our Clients
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3908">
+      <a href="https://www.elitefire.co.uk/our-clients/testimonials/" class="desktop-menu__link desktop-menu__link--subnav">
+        Testimonials
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3909">
+      <a href="https://www.elitefire.co.uk/our-clients/case-studies/" class="desktop-menu__link desktop-menu__link--subnav">
+        Case Studies
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3905">
+      <a href="https://www.elitefire.co.uk/our-process/" class="desktop-menu__link desktop-menu__link--subnav">
+        Our Process
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3906">
+      <a href="https://www.elitefire.co.uk/guarantees/" class="desktop-menu__link desktop-menu__link--subnav">
+        Guarantees
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3907">
+      <a href="https://www.elitefire.co.uk/accreditations/" class="desktop-menu__link desktop-menu__link--subnav">
+        Accreditations
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4014">
+      <a href="https://www.elitefire.co.uk/about-us/faqs/" class="desktop-menu__link desktop-menu__link--subnav">
+        Business FAQs
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3910">
+      <a href="https://www.elitefire.co.uk/branches/" class="">
+        Branches
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3912">
+      <a href="https://www.elitefire.co.uk/help-advice/" class="">
+        Help &#038; Advice
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3913">
+      <a href="https://www.elitefire.co.uk/contact-us/" class="">
+        Contact Us
+      </a>
+          </li>
+        </ul>
+
+      <div class="float-left w-full py-40 px-30 border-t border-black-dark">
+		  <h5 class="text-1-4 text-white text-center lg:text-left">Can't find what you're looking for?</h5>
+		  <p class="mb-20 leading-snug text-white text-center lg:text-left">Use the form below to search for your specific query</p>
+
+		  <form role="search" method="get" id="searchform" class="relative max-w-sm mx-auto mt-4 2xl:mt-6 searchform search-form search-form--blog" action="https://www.elitefire.co.uk">
+   <label class="sr-only screen-reader-text" for="s">Search for:</label>
+   <div class="flex flex-wrap justify-center w-full text-sm">
+       <input class="w-full sm:w-70 lg:w-full m-0 py-15 border border-grey outline-none livesearch" autocomplete="off" type="text" value="" name="s" id="s" placeholder="Search..." />       
+       <input class="w-full sm:w-30 lg:w-full mt-10 sm:mt-0 lg:m-0 font-bold btn btn--secondary hover:bg-secondary-dark" type="submit" id="searchsubmit" value="Search" />  
+       <div class="absolute left-0 z-50 hidden w-full p-4 bg-white shadow-lg top-full livesearch-results"></div>
+   </div>
+</form>
+		</div>
+
+    </div>
+  </nav>
+
+  <div class="wrapper">
+
+      <div class="fixed z-50 flex flex-wrap w-full bg-primary z lg:hidden mobile-top-bar">
+
+  
+    <span class='ld-phonenumber'><a onClick='ga("send", "event", "Phone Number", "Click", "Click Phone Number UK How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)");' href='tel:02031241632'>020 31241 632</a></span>  
+
+  
+  <div class="flex items-center justify-center w-1/2 p-2 text-center font-bold menu-btn bg-primary"><svg class="icon icon-bars "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-bars"></use></svg><span
+      class="ml-2">Menu</span></div>
+
+</div>
+
+      <header class="absolute lg:fixed w-full pt-90 lg:pt-0 z-20 header">
+	<div class="container flex-wrap justify-between lg:flex">
+
+		<a aria-label="Go to homepage" class="block lg:inline-block hover:opacity-75" href="https://www.elitefire.co.uk">
+			<img class="max-w-100 lg:my-30 logo" width="100" height="120" src="https://www.elitefire.co.uk/wp-content/uploads/2020/08/Logo-White.svg" alt="Elite Fire Logo"/>
+		</a>
+
+		<ul class="hidden xxxl:flex xxxl:w-60 xxxl:mt-70 xxxl:mr-30 flex-wrap justify-end secondary-menu">
+			
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3924">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-detection-alarm-systems/" class="mx-10 text-white text-1-2 font-bold hover:text-primary secondary-menu__link">
+        Fire Detection &#038; Alarm Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3925">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/" class="mx-10 text-white text-1-2 font-bold hover:text-primary secondary-menu__link">
+        Monitored Fire Alarms
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3926">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/" class="mx-10 text-white text-1-2 font-bold hover:text-primary secondary-menu__link">
+        Fire Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3927">
+      <a href="https://www.elitefire.co.uk/fire-risk-assessment/" class="mx-10 text-white text-1-2 font-bold hover:text-primary secondary-menu__link">
+        Fire Risk Assessment
+      </a>
+          </li>
+  		</ul>
+
+		<div class="hidden lg:flex lg:flex-wrap lg:w-45 xxxl:w-30 lg:font-bold lg:text-1-3 lg:text-white lg:bg-black-dark lg:rounded-b-lg overflow-hidden phone-top-right">
+
+  <div class="lg:flex lg:flex-wrap lg:w-50">
+  	<a class="lg:flex lg:items-center lg:justify-center lg:w-full lg:h-50 lg:border-b lg:border-white lg:border-opacity-25 hover:bg-primary phone-top-right__quote overlay-trigger" href="#" data-toggle="quote-popup">
+  		Get a quote
+  	</a>
+
+  	<div class="lg:w-full lg:h-50">
+  		
+              <span class='ld-phonenumber'><a onClick='ga("send", "event", "Phone Number", "Click", "Click Phone Number UK How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)");' href='tel:02031241632'>020 31241 632</a></span>        
+        	</div>
+  </div>
+
+  <a class="lg:flex lg:items-center lg:justify-center lg:w-25 lg:border-l lg:border-r lg:border-white lg:border-opacity-25 search overlay-trigger hover:bg-primary" data-toggle="search-popup">
+  	<span>
+  		<svg class="icon icon-search icon-search--header block mx-auto mb-5"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-search"></use></svg>
+  		<span class="block">Search</span>
+  	</span>
+  </a>
+
+  <a class="lg:flex lg:items-center lg:justify-center lg:w-25 hover:bg-primary menu-btn">
+  	<span>
+  		<svg class="icon icon-menu icon-menu--header block mx-auto mb-5"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-menu"></use></svg>
+  		<span class="block">Menu</span>
+  	</span>
+  </a>
+
+</div>
+
+
+
+<div class="md:pt-70 quote-popup overlay">
+  <a class="overlay-close">
+    <svg class="icon icon-close "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-close"></use></svg>
+  </a>
+
+  <div class="flex items-center justify-center container">
+    <div class="w-full">
+      <h3 class="mb-25 text-center text-3 xl:text-3-5">Request a Quote <span class="block text-1-2 text-white font-light">Just fill in your details below and we'll get back to you as soon as we can!</span></h3>
+      				<div role="form" class="wpcf7" id="wpcf7-f4710-o1" lang="en-GB" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/help-advice/detect-and-extinguish-class-f-fire/#wpcf7-f4710-o1" method="post" class="wpcf7-form init quote-form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4710" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_GB" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4710-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div>
+<label>Name*</label>
+<span class="wpcf7-form-control-wrap customer-name"><input type="text" name="customer-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> 
+</div>
+
+<div>
+<label>Company</label>
+<span class="wpcf7-form-control-wrap company"><input type="text" name="company" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> 
+</div>
+
+<div>
+<label>Phone Number*</label>
+<span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span> 
+</div>
+
+<div>
+<label> Email*</label>
+<span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> 
+</div>
+
+<div>
+<label> Postcode*</label>
+<span class="wpcf7-form-control-wrap postcode"><input type="text" name="postcode" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> 
+</div>
+
+<div>
+<label class="w-full">What are you looking for?</label>
+<span class="wpcf7-form-control-wrap looking-for"><select name="looking-for" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="General Enquiry">General Enquiry</option><option value="Fire Alarm Services">Fire Alarm Services</option><option value="Monitored Fire Alarms">Monitored Fire Alarms</option><option value="Fire Stopping">Fire Stopping</option><option value="Fire Safety Equipment">Fire Safety Equipment</option><option value="Emergency Lighting">Emergency Lighting</option><option value="Wet / Dry Riser Systems">Wet / Dry Riser Systems</option><option value="Sprinkler Systems">Sprinkler Systems</option><option value="Fire Safety Training">Fire Safety Training</option><option value="Fire Extinguishers">Fire Extinguishers</option><option value="Fire Doors">Fire Doors</option><option value="Fire Risk Assessment">Fire Risk Assessment</option><option value="Fire Stopping">Fire Stopping</option><option value="Fever Detection Technology">Fever Detection Technology</option></select></span>
+</div>
+
+<div>
+<label class="w-full">Any further details?</label>
+<span class="wpcf7-form-control-wrap further-details"><textarea name="further-details" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea w-full" aria-invalid="false"></textarea></span>
+</div>
+
+<div>
+<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" />
+</div><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+			    </div>
+  </div>
+</div>
+
+
+<div class="search-popup overlay">
+  <a class="overlay-close">
+    <svg class="icon icon-close "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-close"></use></svg>
+  </a>
+
+  <div class="flex items-center justify-center h-full container">
+    <div class="w-full">
+      <h3 class="mb-25 text-center text-3 xl:text-3-5">Begin your search:</h3>
+      <form class="search-form search-form--main" method="get" role="search" action="https://www.elitefire.co.uk">
+	<div class="search-field-wrap">
+		<input class="p-20" type="text" value="" placeholder="Search..." name="s" id="s">
+
+		<div onclick="startDictation()" class="icon-microphone">
+          <svg id="Capa_1" enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m218.5 387.477v34.523h75v-34.523c68.799-16.868 120-79.051 120-152.977v-68.5h-30v68.5c0 70.304-57.196 127.5-127.5 127.5s-127.5-57.196-127.5-127.5v-68.5h-30v68.5c0 73.926 51.201 136.109 120 152.977z"/><path d="m256 332c53.762 0 97.5-43.738 97.5-97.5v-137c0-53.762-43.738-97.5-97.5-97.5s-97.5 43.738-97.5 97.5v137c0 53.762 43.738 97.5 97.5 97.5z"/><path d="m368.5 452h-225c-33.137 0-60 26.863-60 60h345c0-33.137-26.863-60-60-60z"/></g></svg>
+        </div>
+    </div>
+
+     <button class="search-submit" type="submit">
+      <span class="screen-reader-text">
+        <span class="text">Search</span> 
+          <svg xmlns="http://www.w3.org/2000/svg" height="136pt" version="1.1" viewBox="-1 0 136 136.21852" width="136pt">
+                <g>
+                <path d="M 93.148438 80.832031 C 109.5 57.742188 104.03125 25.769531 80.941406 9.421875 C 57.851562 -6.925781 25.878906 -1.460938 9.53125 21.632812 C -6.816406 44.722656 -1.351562 76.691406 21.742188 93.039062 C 38.222656 104.707031 60.011719 105.605469 77.394531 95.339844 L 115.164062 132.882812 C 119.242188 137.175781 126.027344 137.347656 130.320312 133.269531 C 134.613281 129.195312 134.785156 122.410156 130.710938 118.117188 C 130.582031 117.980469 130.457031 117.855469 130.320312 117.726562 Z M 51.308594 84.332031 C 33.0625 84.335938 18.269531 69.554688 18.257812 51.308594 C 18.253906 33.0625 33.035156 18.269531 51.285156 18.261719 C 69.507812 18.253906 84.292969 33.011719 84.328125 51.234375 C 84.359375 69.484375 69.585938 84.300781 51.332031 84.332031 C 51.324219 84.332031 51.320312 84.332031 51.308594 84.332031 Z M 51.308594 84.332031 " style=" stroke:none;fill-rule:nonzero;fill-opacity:1;" />
+                </g>
+            </svg>
+        </span>
+    </button>
+
+    <input type="hidden" name="post_type" value="page">
+
+</form>
+
+    </div>
+  </div>
+</div>
+	</div>
+</header>
+
+
+<nav class="desktop-nav">
+
+	<a class="desktop-nav__contact-link" href="https://www.elitefire.co.uk/contact-us/">Contact Us</a>
+        
+    <ul class="scroll-container">
+		
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3902">
+      <a href="https://www.elitefire.co.uk/" class="secondary-menu__link">
+        Home
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3672 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/" class="secondary-menu__link">
+        Fire Alarm Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3673">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-detection-alarm-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Detection
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3674">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-alarm-installations/" class="desktop-menu__link desktop-menu__link--subnav">
+        Installation
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3675">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/fire-alarm-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Maintenance
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3759 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/" class="desktop-menu__link desktop-menu__link--subnav">
+        Monitored Fire Alarms
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3760">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/monitored-fire-alarm-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Monitored Fire Alarm System Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4282">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/wireless-fire-alarms/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wireless Fire Alarms
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4283">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/notifier-fire-alarm-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Notifier Fire Alarm Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4284 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/" class="desktop-menu__link desktop-menu__link--subnav">
+        Aspirating Fire &#038; Smoke Detection Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4285">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/faast-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        FAAST Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4286">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/vesda-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        VESDA Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4287">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/stratos-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Stratos Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4288">
+      <a href="https://www.elitefire.co.uk/fire-alarm-systems/aspirating-detection/wagner-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wagner Systems
+      </a>
+          </li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3758">
+      <a href="https://www.elitefire.co.uk/fire-stopping/" class="secondary-menu__link">
+        Fire Stopping
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3670 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/" class="secondary-menu__link">
+        Fire Extinguishers
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-custom menu-item-object-custom menu-item-4706 menu-item-has-children">
+      <a href="#" class="desktop-menu__link desktop-menu__link--subnav">
+        Types of Extinguisher
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4296">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/automatic-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Automatic Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4292">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/co2-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        CO2 Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4291">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/foam-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Foam Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4293">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/powder-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Powder Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4295">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/water-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Water Extinguishers
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4294">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/wet-chemical-extinguishers/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet Chemical Extinguishers
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3678">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/service-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Service &#038; Maintenance
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3724">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/fire-extinguisher-hire/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Hire
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3725">
+      <a href="https://www.elitefire.co.uk/fire-extinguishers/fire-extinguisher-disposal/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Extinguisher Disposal
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3683 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-doors/" class="secondary-menu__link">
+        Fire Doors
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3749">
+      <a href="https://www.elitefire.co.uk/fire-doors/internal-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        Internal Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3750">
+      <a href="https://www.elitefire.co.uk/fire-doors/external-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        External Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3751">
+      <a href="https://www.elitefire.co.uk/fire-doors/glazed-fire-doors/" class="desktop-menu__link desktop-menu__link--subnav">
+        Glazed Fire Doors
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3752">
+      <a href="https://www.elitefire.co.uk/fire-doors/fire-rated-door-finishes/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Rated Door Finishes
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3723">
+      <a href="https://www.elitefire.co.uk/fire-doors/fire-door-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Door Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3744 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/fire-risk-assessment/" class="secondary-menu__link">
+        Fire Risk Assessments
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4297">
+      <a href="https://www.elitefire.co.uk/fire-risk-assessment/video-landing-page/" class="desktop-menu__link desktop-menu__link--subnav">
+        Risk Assessment Quiz
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3669 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/" class="secondary-menu__link">
+        Other Services
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3684">
+      <a href="https://www.elitefire.co.uk/other-fire-services/emergency-lighting/" class="desktop-menu__link desktop-menu__link--subnav">
+        Emergency Lighting
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3681">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-signage/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Safety Signage
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3763">
+      <a href="https://www.elitefire.co.uk/fever-detection-technology/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fever Detection Technology
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3671 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Safety Training
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3676">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/basic-fire-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Basic Fire Training
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3677">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/fire-warden-training/" class="desktop-menu__link desktop-menu__link--subnav">
+        Fire Warden Training
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3680">
+      <a href="https://www.elitefire.co.uk/other-fire-services/mechanical-sprinkler-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Mechanical Sprinkler Systems
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3682">
+      <a href="https://www.elitefire.co.uk/other-fire-services/fire-pat-testing/" class="desktop-menu__link desktop-menu__link--subnav">
+        PAT Testing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3679 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet / Dry Riser Systems
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4299">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-testing/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet/Dry Riser Testing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4298">
+      <a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-maintenance/" class="desktop-menu__link desktop-menu__link--subnav">
+        Wet/Dry Riser Maintenance
+      </a>
+          </li>
+          </ul>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3911 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/" class="secondary-menu__link">
+        Sectors We Cover
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4073">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/construction/" class="desktop-menu__link desktop-menu__link--subnav">
+        Construction
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4076">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/data-centres/" class="desktop-menu__link desktop-menu__link--subnav">
+        Data Centres
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4074">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/education/" class="desktop-menu__link desktop-menu__link--subnav">
+        Education
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4069">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/health-facilities/" class="desktop-menu__link desktop-menu__link--subnav">
+        Health &#038; Facilities
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4070">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/hospitality/" class="desktop-menu__link desktop-menu__link--subnav">
+        Hospitality
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4762">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/letting-agent-fire-protection/" class="desktop-menu__link desktop-menu__link--subnav">
+        Letting Agent Fire Protection
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4068">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/manufacturing/" class="desktop-menu__link desktop-menu__link--subnav">
+        Manufacturing
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4075">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/offices/" class="desktop-menu__link desktop-menu__link--subnav">
+        Offices
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4071">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/retail/" class="desktop-menu__link desktop-menu__link--subnav">
+        Retail
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4072">
+      <a href="https://www.elitefire.co.uk/sectors-we-cover/transport/" class="desktop-menu__link desktop-menu__link--subnav">
+        Transport
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3903 menu-item-has-children">
+      <a href="https://www.elitefire.co.uk/about-us/" class="secondary-menu__link">
+        About Us
+      </a>
+              <ul class="sub-menu ">
+          
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3904">
+      <a href="https://www.elitefire.co.uk/our-clients/" class="desktop-menu__link desktop-menu__link--subnav">
+        Our Clients
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3908">
+      <a href="https://www.elitefire.co.uk/our-clients/testimonials/" class="desktop-menu__link desktop-menu__link--subnav">
+        Testimonials
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3909">
+      <a href="https://www.elitefire.co.uk/our-clients/case-studies/" class="desktop-menu__link desktop-menu__link--subnav">
+        Case Studies
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3905">
+      <a href="https://www.elitefire.co.uk/our-process/" class="desktop-menu__link desktop-menu__link--subnav">
+        Our Process
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3906">
+      <a href="https://www.elitefire.co.uk/guarantees/" class="desktop-menu__link desktop-menu__link--subnav">
+        Guarantees
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3907">
+      <a href="https://www.elitefire.co.uk/accreditations/" class="desktop-menu__link desktop-menu__link--subnav">
+        Accreditations
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-4014">
+      <a href="https://www.elitefire.co.uk/about-us/faqs/" class="desktop-menu__link desktop-menu__link--subnav">
+        Business FAQs
+      </a>
+          </li>
+          </ul>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3910">
+      <a href="https://www.elitefire.co.uk/branches/" class="secondary-menu__link">
+        Branches
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3912">
+      <a href="https://www.elitefire.co.uk/help-advice/" class="secondary-menu__link">
+        Help &#038; Advice
+      </a>
+          </li>
+      <li class="list-none  menu-item menu-item-type-post_type menu-item-object-page menu-item-3913">
+      <a href="https://www.elitefire.co.uk/contact-us/" class="secondary-menu__link">
+        Contact Us
+      </a>
+          </li>
+  	</ul>
+
+	<div class="fixed bottom-10 left-0 right-0 w-full text-center">
+		<span class="arrow-bounce bounce"><svg class="icon icon-angle-down transition duration-300"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-angle-down"></use></svg></span>
+		<span class="text-white desktop-nav__scroll-text">Scroll down to see more</span>
+	</div>
+
+</nav>
+  
+      <div class="relative w-full bg-center bg-cover hero min-h-128 overflow-hidden hero--inner">
+    
+   
+        
+  
+<picture class="w-full absolute top-0 bottom-0 left-0 right-0 test">
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1800x700-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1800x700-c-center.webp"
+      media="(min-width: 1530px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1800x700-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1800x700-c-center.jpg"
+      media="(min-width: 1530px)"
+    >
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1530x500-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1530x500-c-center.webp"
+      media="(min-width: 1280px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1530x500-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1530x500-c-center.jpg"
+      media="(min-width: 1280px)"
+    >
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1280x500-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1280x500-c-center.webp"
+      media="(min-width: 1024px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1280x500-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1280x500-c-center.jpg"
+      media="(min-width: 1024px)"
+    >
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1024x500-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1024x500-c-center.webp"
+      media="(min-width: 768px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1024x500-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1024x500-c-center.jpg"
+      media="(min-width: 768px)"
+    >
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-768x400-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-768x400-c-center.webp"
+      media="(min-width: 640px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-768x400-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-768x400-c-center.jpg"
+      media="(min-width: 640px)"
+    >
+
+      
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1000x940-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1000x940-c-center.webp"
+      media="(min-width: 1px)"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1000x940-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-1000x940-c-center.jpg"
+      media="(min-width: 1px)"
+    >
+
+  	
+    <source
+      type="image/webp"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.webp"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.webp"
+    >
+    
+    <source
+      type="image/jpeg"
+      srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.jpg"
+      data-srcset="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.jpg"
+    >
+
+  <img
+    src="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.jpg"
+    data-src="https://www.elitefire.co.uk/wp-content/uploads/2013/08/kitchen-fires-cropped-640x940-c-center.jpg"
+    alt="Elite Fire"
+    class="w-full h-full object-cover"
+  >
+</picture>
+    <div class="container relative z-10">
+      <p class="hero__primary">How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)</p>
+
+        
+      <a class="btn btn--primary" href="https://www.elitefire.co.uk/contact-us/">Enquire online</a>
+    </div>
+
+   
+    <svg class="icon icon-elite-black absolute hidden md:block hero__bg-icon"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-elite-black"></use></svg>
+   
+
+</div>
+
+    <div class="py-20 bg-black-dark border-b border-black-light">
+      <div class="text-white container">
+        <div class="md:flex breadcrumbs">
+	<p class="w-full md:w-auto md:mr-10">You are here:</p> <nav id="breadcrumbs" class="main-breadcrumbs"><span><span><a href="https://www.elitefire.co.uk/">Home</a> » <span><a href="https://www.elitefire.co.uk/help-advice/">Help &#038; Advice</a> » <strong class="breadcrumb_last" aria-current="page">How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)</strong></span></span></span></nav>
+</div>      </div>
+    </div>
+  
+
+
+
+  
+  <div class="container my-8 lg:my-16">
+
+    <aside class="w-full lg:w-1/3 float-left mb-40">
+      
+	<h3 class="relative lg:hidden p-20 bg-black-light hover:bg-black-dark cursor-pointer transition duration-500 ease-in-out toggle">Related Posts <svg class="icon icon-plus absolute top-25 right-20"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-plus"></use></svg></h3>
+      
+	<div class="hidden related-posts">
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/do-fire-extinguishers-expire/">Do Fire Extinguishers expire?</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/what-is-a-dry-riser/">What is a dry riser?</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/non-magnetic-fire-extinguishers/">Non-Magnetic Fire Extinguishers – Everything You Need To Know</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/fire-extinction-methods-approaches/">Fire Extinction: Methods and Approaches</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/real-importance-of-fire-extinguishers/">The Real Importance of Fire Extinguishers</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item text-white bg-primary " href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/">How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-d-fires/">How to Detect and Extinguish a Class D Fire (Combustible Metals)</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-c-fires/">How to Detect and Extinguish a Class C Fire (Flammable Gases)</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-b-fires/">How to Detect and Extinguish a Class B fire (Flammable/Combustible Liquids)</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-a-fires/">How to Detect and Extinguish a Class A Fire (Paper / Wood)</a>
+		      
+		  <a class="block w-full p-20 xl:px-25 related-posts__item " href="https://www.elitefire.co.uk/help-advice/sprinklers-benefits-sprinkler-systems/">Think Sprinklers: The Benefits of Sprinkler Systems</a>
+		
+				  <a class="block w-full p-30 text-1-3 text-white text-center leading-snug bg-primary hover:bg-primary-dark" href="https://www.elitefire.co.uk/fire-extinguishers/">
+		    It is vital to your workplace's safety that your extinguishers are maintained. Read more about our free site survey.
+		  </a>
+		
+		<div class="mt-40 p-30 xl:p-40 bg-gray-200">
+		  <h5 class="text-1-4 text-black text-center lg:text-left">Can't find what you're looking for?</h5>
+		  <p class="mb-20 leading-snug text-center lg:text-left">Browse our <a>Help &amp; Advice</a> section or search for your specific query below</p>
+
+		  <form role="search" method="get" id="searchform" class="relative max-w-sm mx-auto mt-4 2xl:mt-6 searchform search-form search-form--blog" action="https://www.elitefire.co.uk">
+   <label class="sr-only screen-reader-text" for="s">Search for:</label>
+   <div class="flex flex-wrap justify-center w-full text-sm">
+       <input class="w-full sm:w-70 lg:w-full m-0 py-15 border border-grey outline-none livesearch" autocomplete="off" type="text" value="" name="s" id="s" placeholder="Search..." />       
+       <input class="w-full sm:w-30 lg:w-full mt-10 sm:mt-0 lg:m-0 font-bold btn btn--secondary hover:bg-secondary-dark" type="submit" id="searchsubmit" value="Search" />  
+       <div class="absolute left-0 z-50 hidden w-full p-4 bg-white shadow-lg top-full livesearch-results"></div>
+   </div>
+</form>
+		</div>
+	</div>
+
+
+	<ul class="w-full float-left post-cats list-none mt-20">
+		<h3 class="relative lg:hidden w-full p-20 bg-black-light hover:bg-black-dark cursor-pointer transition duration-500 ease-in-out toggle">Categories <svg class="icon icon-plus absolute top-25 right-20"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-plus"></use></svg></h3>
+
+		<div class="hidden related-posts">
+				<li class="cat-item cat-item-2"><a href="https://www.elitefire.co.uk/help-advice/category/company/">Company</a>
+<ul class='children'>
+	<li class="cat-item cat-item-3"><a href="https://www.elitefire.co.uk/help-advice/category/company/company-news/">Company News</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.elitefire.co.uk/help-advice/category/company/fire-safety-survey/">Fire Safety Survey</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://www.elitefire.co.uk/help-advice/category/company/interesting/">Interesting</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.elitefire.co.uk/help-advice/category/faqs/">FAQs</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.elitefire.co.uk/help-advice/category/industry/">Industry</a>
+<ul class='children'>
+	<li class="cat-item cat-item-14"><a href="https://www.elitefire.co.uk/help-advice/category/industry/animal/">Animals</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.elitefire.co.uk/help-advice/category/industry/construction/">Construction</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://www.elitefire.co.uk/help-advice/category/industry/health-facility/">Health/Facility</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="https://www.elitefire.co.uk/help-advice/category/industry/hospitality/">Hospitality</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.elitefire.co.uk/help-advice/category/industry/office/">Office</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.elitefire.co.uk/help-advice/category/industry/retail/">Retail</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.elitefire.co.uk/help-advice/category/industry/transport/">Transport</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.elitefire.co.uk/help-advice/category/videos/">Videos</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/">Workplace Fire Safety</a>
+<ul class='children'>
+	<li class="cat-item cat-item-15"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/carbon-monoxide/">Carbon Monoxide</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/extinguishing-fires/">Extinguishing Fires</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-alarms/">Fire Alarms</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-doors/">Fire Doors</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-drills/">Fire Drills</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-extinguishers/">Fire Extinguishers</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-risk-assessment/">Fire Risk Assessment</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-risks/">Fire Risks</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/fire-stopping/">Fire Stopping</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/legal/">Legal</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/passive-fire-protection/">Passive Fire Protection</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://www.elitefire.co.uk/help-advice/category/workplace-fire-safety/teaching-fire-safety/">Teaching Fire Safety</a>
+</li>
+</ul>
+</li>
+
+		</div>
+	</ul>
+
+      
+    </aside>
+
+    <main class="w-full lg:w-2/3 float-left mb-40 lg:pr-16 single-post">
+
+      <article class="copy">
+        
+        <h1>How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)</h1>
+        
+        <p><img class="alignright" src="https://www.elitefire.co.uk/wp-content/uploads/2013/08/How-to-Detect-Extinguish-01-300x300.jpg" alt="" /></p>
+<h2>What is a Class F fire?</h2>
+<p>Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases, they differ from conventional fires due to the extremely high temperatures involved.</p>
+<p>Whereas flammable liquids, such as petrol, usually have low flash and auto ignition temperatures, cooking oil or fats require temperatures in excess of 340<strong>°</strong>C to ignite. As such, the special characteristics of cooking oil and fat fires – specifically their higher flash point – have been recognised as important enough to categorise them separately.</p>
+<p>Due to their nature, Class F fires occur in kitchens and food preparation facilities. Most of these fires are as a result of negligence in the kitchen – such as leaving pans unattended, not cleaning oil and fat from surfaces and not regularly changing the oil in deep fat fryers.</p>
+<h2>How do you extinguish a Class F fire?</h2>
+<p>In order to put out a fire, one element of it must be eradicated – the fuel, oxygen or heat. However, in order to do this successfully, the burning liquid’s temperature must be reduced to below its flash point which, when dealing with fat fires, is incredibly difficult to achieve due to their extreme temperatures.</p>
+<p>As such, most ordinary fire extinguishers are unsuitable for Class F fires and, in some cases, can actually be very dangerous. For example, water fire extinguishers could create an explosion and cause the burning oil to disperse and the fire spread. Additionally, CO2 fire extinguishers and powder fire extinguishers could do more damage than good – to the fire, your property and the operative using the extinguisher itself.</p>
+<p>Class F fire extinguishers should only be extinguished using a wet chemical fire extinguisher. These extinguishers have been specifically developed to tackle fires involving cooking oils and fats and contain potassium salts which both cool the flames and smother the fire’s oxygen content.</p>
+<h2>How do you avoid Class F fires?</h2>
+<p>If you own or manage a kitchen or food preparation facility – whether it’s a restaurant or hotel or part of a school, hospital or university – you have a legal obligation to protect your property and everyone within it from the threat of Class F fires. You must do everything possible to remove and reduce the risks associated with cooking oils and fats and unsafe kitchen procedures.</p>
+<p>This involves regularly carrying out comprehensive fire risk assessments, assessing the dangers within your kitchen and managing them effectively, and implementing fire safety procedures accordingly – including installing wet chemical fire extinguishers (as part of a complete fire extinguisher system), fitting fire alarm systems and planning thorough evacuation plans in the event of a fire.</p>
+<p>However, there are also a number of things you should do in an attempt to avoid Class F fires altogether. This includes training all your kitchen staff on safe work practices – such as regularly cleaning surfaces and changing the oil in pans and fryers and never leaving pots and pans unattended.</p>
+<p>Unfortunately, it is almost impossible to avoid Class F fires completely – as there is no way of separating ignition sources with fuel sources. However, safe kitchen processes, regular staff training, the installation of a range of fire safety equipment and appropriate fire safety signage will make your environment – and the guests and employees within it – much safer.</p>
+
+
+
+
+        
+        
+    
+
+        
+        <div class="mt-40">
+                      <a class="my-5 mr-10 text-white btn bg-primary-dark hover:bg-primary" href="https://www.elitefire.co.uk/fire-extinguishers/wet-chemical-extinguishers/">Find out more about Wet Chemical Extinguishers</a>
+                      <a class="my-5 mr-10 text-white btn bg-primary-dark hover:bg-primary" href="https://www.elitefire.co.uk/fire-extinguishers/">Find out more about Fire Extinguishers</a>
+                      <a class="my-5 mr-10 text-white btn bg-primary-dark hover:bg-primary" href="https://www.elitefire.co.uk/fire-risk-assessment/">Find out more about Fire Risk Assessment</a>
+                  </div>
+
+        <div class="flex flex-wrap items-center w-full my-40 py-15 px-20 bg-gray-300 share-bar">
+            <span class="w-full md:w-auto mr-15 text-1-2 text-black-light font-bold">Share this post</span>
+            <a class="share-bar__twitter" href="http://twitter.com/intent/tweet?status=How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)+https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/"><svg class="icon icon-twitter "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-twitter"></use></svg> <span>Tweet</span></a>
+            
+            <a class="share-bar__facebook" href="http://www.facebook.com/sharer/sharer.php?u=https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/"><svg class="icon icon-facebook "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-facebook"></use></svg> <span>Share</span></a>
+            
+            <a class="share-bar__linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.elitefire.co.uk/help-advice/detect-and-extinguish-class-f-fire/&title=How to Detect and Extinguish a Class F Fire (Cooking Oils &#038; Fats)&source=elitefire.co.uk"><svg class="icon icon-linkedin "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-linkedin"></use></svg> Share</a>
+        </div>
+
+        <div class="p-20 md:p-30 xxl:p-40 border bg-gray-100 rounded">
+          <h4 class="m-0 text-1-6 text-black-light">Request a Callback</h4>
+          <p>Just fill in your details below and we'll get back to you as soon as we can!</p>
+
+                      <div role="form" class="wpcf7" id="wpcf7-f4560-o2" lang="en-GB" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/help-advice/detect-and-extinguish-class-f-fire/#wpcf7-f4560-o2" method="post" class="wpcf7-form init mt-20 callback-form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4560" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_GB" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4560-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<span class="wpcf7-form-control-wrap customer-name"><input type="text" name="customer-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*" /></span>
+
+<span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone*" /></span>
+
+<span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" /></span>
+
+<span class="wpcf7-form-control-wrap enquiry-type"><select name="enquiry-type" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="Enquiry Type">Enquiry Type</option><option value="General Enquiry">General Enquiry</option><option value="Fire Alarm Services">Fire Alarm Services</option><option value="Monitored Fire Alarms">Monitored Fire Alarms</option><option value="Fire Safety Equipment">Fire Safety Equipment</option><option value="Emergency Lighting">Emergency Lighting</option><option value="Wet/Dry Riser Systems">Wet/Dry Riser Systems</option><option value="Sprinkler Systems">Sprinkler Systems</option><option value="Fire Safety Training">Fire Safety Training</option><option value="Fire Extinguishers">Fire Extinguishers</option><option value="Fire Doors">Fire Doors</option></select></span>
+
+<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+                  </div>
+        
+      </article>
+
+    </main>
+
+
+  </div>
+
+
+
+      <footer class="float-left w-full text-center bg-white lg:text-left footer">
+
+	<div class="py-60 px-20 container lg:flex lg:flex-wrap  lg:justify-between">
+
+		<div class="hidden lg:block lg:w-45 xl:w-40">
+			<h6 class="footer__title icon-heading">
+				<img class="lazyload" data-src="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/elite-logo.svg" alt="Elite Logo">
+				Products &amp; Services
+			</h6>
+
+			<ul class="lg:flex lg:flex-wrap">
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3686">
+						<a href="https://www.elitefire.co.uk/fire-alarm-systems/">Fire Alarm Systems</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3687">
+						<a href="https://www.elitefire.co.uk/fire-extinguishers/">Fire Extinguishers</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3692">
+						<a href="https://www.elitefire.co.uk/fire-risk-assessment/">Fire Risk Assessments</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3688">
+						<a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-training/">Fire Safety Training</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3690">
+						<a href="https://www.elitefire.co.uk/fire-doors/">Fire Doors</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3694">
+						<a href="https://www.elitefire.co.uk/other-fire-services/mechanical-sprinkler-systems/">Mechanical Sprinkler Systems</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3689">
+						<a href="https://www.elitefire.co.uk/other-fire-services/emergency-lighting/">Emergency Lighting</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3691">
+						<a href="https://www.elitefire.co.uk/other-fire-services/fire-pat-testing/">PAT Testing</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3693">
+						<a href="https://www.elitefire.co.uk/other-fire-services/fire-safety-signage/">Fire Safety Signage</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3695">
+						<a href="https://www.elitefire.co.uk/fire-alarm-systems/monitored-fire-alarms/">Monitored Fire Alarms</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3696">
+						<a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/">Wet / Dry Riser Systems</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3739">
+						<a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-maintenance/">Wet/Dry Riser Maintenance</a>
+					</li>
+									<li class="lg:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3740">
+						<a href="https://www.elitefire.co.uk/other-fire-services/wet-dry-riser-systems/wet-dry-riser-testing/">Wet/Dry Riser Testing</a>
+					</li>
+							</ul>
+		</div>
+
+		<div class="w-full mb-8 lg:w-25 xl:w-35">
+			<h6 class="footer__title icon-heading">
+				<img class="lazyload" data-src="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/elite-logo.svg" alt="Elite Logo">
+				Areas We Cover
+			</h6>
+
+			<ul class="lg:flex lg:flex-wrap">
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3962">
+						<a href="https://www.elitefire.co.uk/branches/barking-and-dagenham/">Barking and Dagenham</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3964">
+						<a href="https://www.elitefire.co.uk/branches/barnet/">Barnet</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3966">
+						<a href="https://www.elitefire.co.uk/branches/bexley/">Bexley</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3965">
+						<a href="https://www.elitefire.co.uk/branches/brent/">Brent</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3963">
+						<a href="https://www.elitefire.co.uk/branches/brixton/">Brixton</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3929">
+						<a href="https://www.elitefire.co.uk/branches/bromley/">Bromley</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3930">
+						<a href="https://www.elitefire.co.uk/branches/camden/">Camden</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3931">
+						<a href="https://www.elitefire.co.uk/branches/city-of-london/">City of London</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3932">
+						<a href="https://www.elitefire.co.uk/branches/croydon/">Croydon</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-4931">
+						<a href="https://www.elitefire.co.uk/branches/dartford/">Dartford</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3933">
+						<a href="https://www.elitefire.co.uk/branches/ealing/">Ealing</a>
+					</li>
+									<li class="w-full xl:w-50 xxl:w-33 menu-item menu-item-type-post_type menu-item-object-page menu-item-3934">
+						<a href="https://www.elitefire.co.uk/branches/enfield/">Enfield</a>
+					</li>
+							</ul>
+
+			<a class="block mt-10 text-1 text-primary font-bold" href="https://www.elitefire.co.uk/branches/">View all areas &raquo;</a>
+		</div>
+
+		<div class="w-full lg:w-20">
+			<h6 class="footer__title icon-heading">
+				<img class="lazyload" data-src="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/elite-logo.svg" alt="Elite Logo">
+				Get in Touch
+			</h6>
+
+			<p class="mb-5 font-bold text-primary text-1-3">London Branch</p>
+			<p>86-90 Paul Street<br/>London<br/>EC2A 4NE</p>
+
+			<p class="mt-20 mb-5 font-bold text-primary text-1-3">Surrey Branch</p>
+			<p>St Ann's House<br/>St Ann's Road<br/>Chertsey<br/>KT16 9EH</p>
+
+			<p class="mt-20"><span class="font-bold">Email:</span>
+				<a href="mailto:info@elitefire.co.uk" onclick="gtag('event' , 'conversion' , { 'event_category' : 'Mailto', 'event_label' : 'Successful Email Footer' });">info@elitefire.co.uk</a>
+			</p>
+		
+					</div>
+
+	</div>
+
+	<div class="py-25 text-white bg-black-dark">
+		<div class="lg:flex lg:flex-wrap lg:justify-between container">
+			<div class="">
+				  <a rel="noopener noreferrer" aria-label="Twitter" target="_blank" class="mx-10 text-1-6 hover:text-primary" href="https://twitter.com/elitefireprot"><svg class="icon icon-twitter "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-twitter"></use></svg></a>
+
+  <a rel="noopener noreferrer" aria-label="Facebook" target="_blank" class="mx-10 text-1-6 hover:text-primary" href="https://www.facebook.com/EliteFireProtection"><svg class="icon icon-facebook "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-facebook"></use></svg></a>
+
+
+
+
+
+ <a rel="noopener noreferrer" aria-label="LinkedIn" target="_blank" class="mx-10 text-1-6 hover:text-primary" href="https://www.linkedin.com/company/elite-fire-protection/"> <svg class="icon icon-linkedin "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-linkedin"></use></svg></a>
+
+
+	        </div>
+
+        	<ul class="lg:ml-auto mt-10">
+	        						<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/help-advice/">Help &#038; Advice</a>
+					</li>
+									<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/sectors-we-cover/">Your Workplace</a>
+					</li>
+									<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/branches/">Areas We Cover</a>
+					</li>
+									<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/equal-opportunities/">Equal Opportunities</a>
+					</li>
+									<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/environmental-policy/">Environmental Policy</a>
+					</li>
+									<li class="block lg:inline w-full lg:ml-10 xl:ml-15 font-bold text-primary">
+						<a class="lg:text-0-9 xl:text-1 hover:opacity-75" href="https://www.elitefire.co.uk/privacy-policy/">Elite Fire Privacy Policy</a>
+					</li>
+							</ul>
+		</div>
+	</div>
+
+	<div class="py-15 pb-90 xxxl:pb-40 font-light text-white bg-black">
+		<div class="container">
+			<p>Elite Fire
+				is a registered company in England.
+
+							Registered Number:
+					04093143
+			
+							VAT Number:
+					731615454
+			
+			&copy;
+				Elite Fire
+				2021. All Rights Reserved</p>
+		</div>
+	</div>
+
+</footer>
+
+<a id="back-top" class="fixed bottom-0 right-0 z-50 p-2 -mb-20 text-center transition-all duration-1000 bg-gray-500 opacity-0 rounded-xl hover:bg-gray-600" href="javascript:">
+	<span class="text-sm text-black no-underline">
+		<svg class="icon icon-angle-up w-8 h-8"><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-angle-up"></use></svg>
+		<span class="block text-lg uppercase">Top</span>
+	</span>
+</a>
+
+<div id="pixel-to-watch"></div>
+
+
+<div class="postcode-form-wrap postcode-form-wrap--footer">
+    <form class="postcode-form no-smoothstate" name="Postcode_Form" method="post" action="https://www.elitefire.co.uk/branches/">
+        <label class="title">See if we cover your area</label>
+        <input type="text" name="Postcode" id="Postcode" value="" placeholder="Enter full postcode">
+        <input class="postcode-valid" type="hidden" name="PostcodeValid">
+        <button onClick="ga('send','event','Postcode Checker','Click','test');" type="submit" name="submit" aria-label="Postcode checker submit"><svg class="icon icon-double-arrow-right "><use href="https://www.elitefire.co.uk/wp-content/themes/elite-fire/images/icons-sprite.svg#icon-double-arrow-right"></use></svg></button>
+    </form>
+</div>  
+</div><!-- wrapper -->
+
+<div id="wp-notification" class="closed">
+	<div class="wp-notification-container">
+		<p>This website uses cookies to enhance your browsing experience... <a href="https://www.elitefire.co.uk/cookie-policy">view privacy policy</a><span id="wp-notification-toggle">got it</span></p>
+	</div>
+</div><script async src="//282194.tctm.co/t.js"></script><script src="https://www.elitefire.co.uk/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.elitefire.co.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script defer src="https://www.elitefire.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js" id="contact-form-7-js"></script>
+<script defer src="https://www.google.com/recaptcha/api.js?render=6Lfwp2caAAAAALPHZo_R97OmbMvgeVRv38383buP" id="google-recaptcha-js"></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lfwp2caAAAAALPHZo_R97OmbMvgeVRv38383buP","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script defer src="https://www.elitefire.co.uk/wp-content/plugins/contact-form-7/modules/recaptcha/script.js" id="wpcf7-recaptcha-js"></script>
+<script type='text/javascript' id='production-js-extra'>
+/* <![CDATA[ */
+var site = {"themeURL":"https:\/\/www.elitefire.co.uk\/wp-content\/themes\/elite-fire","site_url":"https:\/\/www.elitefire.co.uk","queried_object":{"ID":196,"post_author":"2","post_date":"2013-08-27 14:46:25","post_date_gmt":"2013-08-27 13:46:25","post_content":"<img class=\"alignright\" src=\"https:\/\/www.elitefire.co.uk\/wp-content\/uploads\/2013\/08\/How-to-Detect-Extinguish-01-300x300.jpg\" alt=\"\" \/>\r\n<h2>What is a Class F fire?<\/h2>\r\nClass F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases, they differ from conventional fires due to the extremely high temperatures involved.\r\n\r\nWhereas flammable liquids, such as petrol, usually have low flash and auto ignition temperatures, cooking oil or fats require temperatures in excess of 340<strong>\u00b0<\/strong>C to ignite. As such, the special characteristics of cooking oil and fat fires \u2013 specifically their higher flash point \u2013 have been recognised as important enough to categorise them separately.\r\n\r\nDue to their nature, Class F fires occur in kitchens and food preparation facilities. Most of these fires are as a result of negligence in the kitchen \u2013 such as leaving pans unattended, not cleaning oil and fat from surfaces and not regularly changing the oil in deep fat fryers.\r\n<h2>How do you extinguish a Class F fire?<\/h2>\r\nIn order to put out a fire, one element of it must be eradicated \u2013 the fuel, oxygen or heat. However, in order to do this successfully, the burning liquid\u2019s temperature must be reduced to below its flash point which, when dealing with fat fires, is incredibly difficult to achieve due to their extreme temperatures.\r\n\r\nAs such, most ordinary fire extinguishers are unsuitable for Class F fires and, in some cases, can actually be very dangerous. For example, water fire extinguishers could create an explosion and cause the burning oil to disperse and the fire spread. Additionally, CO2 fire extinguishers and powder fire extinguishers could do more damage than good \u2013 to the fire, your property and the operative using the extinguisher itself.\r\n\r\nClass F fire extinguishers should only be extinguished using a wet chemical fire extinguisher. These extinguishers have been specifically developed to tackle fires involving cooking oils and fats and contain potassium salts which both cool the flames and smother the fire\u2019s oxygen content.\r\n<h2>How do you avoid Class F fires?<\/h2>\r\nIf you own or manage a kitchen or food preparation facility \u2013 whether it\u2019s a restaurant or hotel or part of a school, hospital or university \u2013 you have a legal obligation to protect your property and everyone within it from the threat of Class F fires. You must do everything possible to remove and reduce the risks associated with cooking oils and fats and unsafe kitchen procedures.\r\n\r\nThis involves regularly carrying out comprehensive fire risk assessments, assessing the dangers within your kitchen and managing them effectively, and implementing fire safety procedures accordingly \u2013 including installing wet chemical fire extinguishers (as part of a complete fire extinguisher system), fitting fire alarm systems and planning thorough evacuation plans in the event of a fire.\r\n\r\nHowever, there are also a number of things you should do in an attempt to avoid Class F fires altogether. This includes training all your kitchen staff on safe work practices \u2013 such as regularly cleaning surfaces and changing the oil in pans and fryers and never leaving pots and pans unattended.\r\n\r\nUnfortunately, it is almost impossible to avoid Class F fires completely \u2013 as there is no way of separating ignition sources with fuel sources. However, safe kitchen processes, regular staff training, the installation of a range of fire safety equipment and appropriate fire safety signage will make your environment \u2013 and the guests and employees within it \u2013 much safer.","post_title":"How to Detect and Extinguish a Class F Fire (Cooking Oils & Fats)","post_excerpt":"","post_status":"publish","comment_status":"open","ping_status":"closed","post_password":"","post_name":"detect-and-extinguish-class-f-fire","to_ping":"","pinged":"","post_modified":"2020-10-30 00:03:54","post_modified_gmt":"2020-10-30 00:03:54","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.elitefire.co.uk\/news\/?p=196","menu_order":0,"post_type":"post","post_mime_type":"","comment_count":"0","filter":"raw","status":"publish","id":196,"slug":"detect-and-extinguish-class-f-fire","custom":{"_edit_last":"1","_su_rich_snippet_type":["none","none"],"_wpas_done_all":["1","1"],"_wp_old_slug":["identify-extinguish-class-fire","identify-and-extinguish-class-fire","identify-and-extinguish-class-f-fire","identify-extinguish-class-fire","identify-and-extinguish-class-fire","identify-and-extinguish-class-f-fire"],"_wpas_skip_3149908":["1","1"],"dsq_thread_id":["3190149078","3190149078"],"accordion":["",""],"_accordion":["field_57e25e06da12a","field_57e25e06da12a"],"_yoast_wpseo_primary_category":["22","22"],"_yoast_wpseo_metadesc":["Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases.","Class F fires are fires which involve cooking oil or fat. Though technically a sub-class of fires caused by flammable liquids or gases."],"_thumbnail_id":["2803","2803"],"_yoast_wpseo_content_score":["30","30"],"related_services_0_related_service_link":["841","841"],"_related_services_0_related_service_link":["field_5c0e720e4fa21","field_5c0e720e4fa21"],"related_services_1_related_service_link":["776","776"],"_related_services_1_related_service_link":["field_5c0e720e4fa21","field_5c0e720e4fa21"],"related_services_2_related_service_link":["862","862"],"_related_services_2_related_service_link":["field_5c0e720e4fa21","field_5c0e720e4fa21"],"related_services":["3","3"],"_related_services":["field_5c0e70924fa20","field_5c0e70924fa20"],"_edit_lock":"1604016096:1","cta_text":"It is vital to your workplace's safety that your extinguishers are maintained. Read more about our free site survey.","_cta_text":"field_5f9b55055de09","cta_link":"776","_cta_link":"field_5f9b550b5de0a"}}};
+/* ]]> */
+</script>
+<script defer src="https://www.elitefire.co.uk/wp-content/themes/elite-fire/dist/production-dist.js" id="production-js"></script>
+<script type="text/javascript">
+window.addEventListener("load", function(event) {
+jQuery(".cfx_form_main,.wpcf7-form,.wpforms-form,.gform_wrapper form").each(function(){
+var form=jQuery(this); 
+var screen_width=""; var screen_height="";
+ if(screen_width == ""){
+ if(screen){
+   screen_width=screen.width;  
+ }else{
+     screen_width=jQuery(window).width();
+ }    }  
+  if(screen_height == ""){
+ if(screen){
+   screen_height=screen.height;  
+ }else{
+     screen_height=jQuery(window).height();
+ }    }
+form.append('<input type="hidden" name="vx_width" value="'+screen_width+'">');
+form.append('<input type="hidden" name="vx_height" value="'+screen_height+'">');
+form.append('<input type="hidden" name="vx_url" value="'+window.location.href+'">');  
+}); 
+
+});
+</script> 
+
+
+<!-- Clickcease.com tracking-->
+<script type='text/javascript'>var script = document.createElement('script');
+script.async = true; script.type = 'text/javascript';
+var target = 'https://www.clickcease.com/monitor/stat.js';
+script.src = target;var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+<a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com/stats/stats.aspx' alt='ClickCease'/></a>
+</noscript>
+<!-- Clickcease.com tracking-->
+
+<script type="text/javascript">
+    var _mfq = _mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/c0eb447a-8288-4898-af23-6fab58b16ae3.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '225902961245800'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=225902961245800&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nxhg7');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+
+</body>
+
+</html><script type="text/javascript">
+  document.querySelector('.current_page_parent').classList.add('current-menu-item');
+</script>
