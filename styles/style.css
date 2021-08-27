@@ -14,7 +14,6 @@ body {
     height: 100vh;
     margin: 0px;
     padding: 0px;
-    background-image: url(./image.jpg);
 }
 
 
@@ -211,8 +210,9 @@ button {
 }
 
 .content-image {
-    height: 100px;
-    width: 200px;
+    height: 200px;
+    width: 360px;
+    padding: 4px;
 }
 
 
@@ -236,6 +236,10 @@ article p {
 
 article h2 {
     text-align: left;
+}
+
+.articles-list a {
+    text-align: center;
 }
 
 article>* {
@@ -847,6 +851,9 @@ form .alexinput {
         width: 90%;
         margin: 5px auto;
     }
+    .recent {
+        display: block;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -857,6 +864,9 @@ form .alexinput {
     .col-2 .nurse {
         width: 250px;
         height: 300px;
+    }
+    .recent {
+        display: block;
     }
 }
 
@@ -885,6 +895,9 @@ form .alexinput {
         width: 100%;
         margin-top: 20px;
     }
+    .recent {
+        display: block;
+    }
 }
 
 @media screen and (max-width: 364px) {
@@ -911,6 +924,9 @@ form .alexinput {
     .col-2 .nurse {
         width: 100%;
         margin-top: 40px;
+    }
+    .recent {
+        display: block;
     }
 }
 
