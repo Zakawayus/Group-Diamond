@@ -354,6 +354,14 @@ article>.figure {
 }
 
 
+/* Life Hacks */
+
+.life-hack-container img {
+    height: 300px;
+    width: 300px;
+}
+
+
 /* login styling starts here*/
 
 .login {
