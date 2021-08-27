@@ -348,6 +348,11 @@ article>.figure {
     width: 100%;
 }
 
+.recent img {
+    height: 150px;
+    width: 200px;
+}
+
 
 /* login styling starts here*/
 
